@@ -1,8 +1,8 @@
 ---
-description: 交互内容与v1版本基本一样，只是链接更换了v2的。手把手详细教程文档：http://suo.im/7YA5Z
+description: 交互内容与v1版本基本一样，只是链接更换了v2的。
 ---
 
-# 🐻 \[V2]\[0撸]Berachain-12min-以太L1公链测试网交互教程-
+# 🐻 \[V2]\[0撸]Berachain-12min-以太L1公链测试网交互教程-详细教程文档http://suo.im/7YA5Z
 
 
 
