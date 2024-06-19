@@ -2,12 +2,13 @@
 description: 交互内容与v1版本基本一样，只是链接更换了v2的。
 ---
 
-# 🐻 \[V2]\[0撸]Berachain-12min-以太L1公链测试网交互教程-手把手详细教程文档：http://suo.im/7YA5Z
+# 🐻 \[V2]\[0撸]Berachain-12min-以太L1公链测试网交互教程-
 
-
+手把手详细教程文档：[http://suo.im/7YA5Z](http://suo.im/7YA5Z)
 
 {% hint style="info" %}
-本文内容具有时效性，请注意，文中所提到的资讯、活动及信息可能已经发生变化，与当前实际情况有所不同。我们建议您在做出任何决策之前，始终进行自主研究和验证。
+1. 本文内容具有时效性，请注意，文中所提到的资讯、活动及信息可能已经发生变化，与当前实际情况有所不同。我们建议您在做出任何决策之前，始终进行自主研究和验证。
+2. 关注<mark style="background-color:yellow;">@waibosangweb3</mark> 关注推特获得更多保姆级优质空投教程\~
 {% endhint %}
 
 ## **项目信息**
@@ -78,3 +79,8 @@ Berachain 是一条基于流动性证明共识构建的高性能 EVM 兼容公�
     **选择任意一个active状态的进行投票**
 
     <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
+
+本文仅供学习和交流使用，其内容并不构成任何形式的投资建议。请您始终谨记，必须自行进行详细研究，并自我负责所有相关风险。
+
