@@ -39,6 +39,8 @@
    9. CONNECT EMAIL（关联 EMAIL后从邮件激活，200分，单次）
    10. REFER 100 USERS（1000分，单次） REFER 25 USERS（600分，单次）
 
+## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
+本文仅供学习和交流使用，其内容并不构成任何形式的投资建议。请您始终谨记，必须自行进行详细研究，并自我负责所有相关风险。
 
 \
