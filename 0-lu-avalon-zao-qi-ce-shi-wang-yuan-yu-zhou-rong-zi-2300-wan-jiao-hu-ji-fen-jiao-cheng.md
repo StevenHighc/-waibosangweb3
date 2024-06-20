@@ -20,7 +20,7 @@
 
 1.  使用推特登录（200分）
 
-    <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
 2. 输入邀请码（200分）邀请码：**twTkGv**
 3. QUESTS
    1. DAILY SPIN（每天转盘，随机分）
@@ -33,8 +33,10 @@
    4. FOLLOW SEAN PINNOCK ON X（关注推，200分，单次）&#x20;
    5. CONNECT METAMASK（链接小狐狸，200分，单次）&#x20;
    6. CONNECT STEAM（关联 STEAM，200分，单次）&#x20;
-   7. CONNECT TWITCH（关联 TWITCH，200分，单次）\
-      ![](<.gitbook/assets/image (22).png>)
+   7.  CONNECT TWITCH（关联 TWITCH，200分，单次）\
+
+
+       <figure><img src=".gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
    8. CONNECT DISCORD（关联 DISCORD，200分，单次）&#x20;
    9. CONNECT EMAIL（关联 EMAIL后从邮件激活，200分，单次）
    10. REFER 100 USERS（1000分，单次） REFER 25 USERS（600分，单次）
