@@ -1,8 +1,8 @@
 ---
-description: 2024-3-22 23:52:18，创建文档
+description: 2024-3-22 23:52:18，创建文档。作者：wejoin
 ---
 
-# 🚛 CARV无限活动第一期任务指引（BIGA Arcade）
+# 🚛 CARV-无限活动第一期任务指引BIGA Arcade
 
 ### 页面链接 <a href="#ye-mian-lian-jie" id="ye-mian-lian-jie"></a>
 
@@ -53,3 +53,7 @@ description: 2024-3-22 23:52:18，创建文档
 **其他任务**
 
 剩下的其他任务都是推特和DC常规任务，就不赘述了，大家自己摸索下。
+
+### 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
+
+本文仅供学习和交流使用，其内容并不构成任何形式的投资建议。请您始终谨记，必须自行进行详细研究，并自我负责所有相关风险。
