@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# StakeStone-投研-Vol.01
+# 🐦 StakeStone-投研-Vol.01
 
 ## 基本资料 <a href="#ji-ben-zi-liao" id="ji-ben-zi-liao"></a>
 
@@ -30,8 +30,7 @@ layout:
 
 ## 项目定位 <a href="#xiang-mu-ding-wei" id="xiang-mu-ding-wei"></a>
 
-
-
+{% code overflow="wrap" fullWidth="false" %}
 ```
 欢迎来到StakeStone
 
@@ -41,10 +40,11 @@ StakeStone通过一个创新的机制——优化组合和分配提案（OPAP）
 
 基于LayerZero，STONE是一种非重调OFT（全链通用代币），支持跨多个区块链无缝转移资产和价格。Layer2上的开发者可以毫不费力地集成STONE，而无需额外的复杂性，使其成为最容易被大规模采纳的LST。
 ```
+{% endcode %}
 
 StakeStone的官方文档[1](https://docs.stakestone.io/stakestone)
 
-**简化业务概念**
+### **简化业务概念**
 
 对于持有ETH的人来说，市场上有许多不同的ETH流动性质押代币和DeFi协议，选择和使用它们可能既复杂又耗时。StakeStone项目旨在简化这一过程，通过策略池选择优质的流动性质押代币和DeFi协议，旨在在保障资金安全的同时，为用户获取更多的收益。
 
@@ -56,17 +56,17 @@ STONE不仅是一个多链代币，这意味着它可以轻松地在不同的区
 
 总结来说，只需将ETH存入，StakeStone以基金管理人的方式运作，帮助你的ETH产生更多收益。同时，你手中的STONE可以在各种公链上自由流通，参与多样的DeFi活动，如交易、抵押或质押等，提供全方位的流动性和使用灵活性。
 
-#### 团队情况 <a href="#tuan-dui-qing-kuang" id="tuan-dui-qing-kuang"></a>
+## 团队情况 <a href="#tuan-dui-qing-kuang" id="tuan-dui-qing-kuang"></a>
 
 目前，该项目尚未公开其LinkedIn页面，因此我们无法获取到参与该项目的员工和团队成员信息。 在rootdata的查询结果中，我们只找到了联合创始人Charles K的信息。他的Twitter账号是@0xbluewharf
 
 值得注意的是，他的Twitter账号主要使用的是简体中文进行交流。
 
-#### 投资情况 <a href="#tou-zi-qing-kuang" id="tou-zi-qing-kuang"></a>
+## 投资情况 <a href="#tou-zi-qing-kuang" id="tou-zi-qing-kuang"></a>
 
 至今为止，已公开的投资信息只显示了okx Ventures和Binance labs的参投，但具体的投资金额和项目估值尚未公布。
 
-#### TVL <a href="#tvl" id="tvl"></a>
+## TVL <a href="#tvl" id="tvl"></a>
 
 ![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331214845.png.jpg\&width=768\&dpr=4\&quality=100\&sign=7ec84ada\&sv=1)
 
@@ -77,17 +77,19 @@ STONE不仅是一个多链代币，这意味着它可以轻松地在不同的区
 1. **触发因素**：StakeStone开放了Manta Network的stone解锁跨链功能。Manta社区对Manta Network进行的空投活动存在分歧，因此选择了以行动表态，将原先通过StakeStone质押到Manta Network的ETH资产解锁并跨链离开Manta生态系统。
 2. **链上数据解读**：我们发现，从2024年3月26日到29日，大约有4294笔交易记录的资金流出，流出的资金量从1个ETH到几百个ETH，甚至高达3000个ETH。也就是说，大量用户选择主动离开Manta Network。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331215751.png.jpg\&width=768\&dpr=4\&quality=100\&sign=39834779\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331215816.png.jpg\&width=768\&dpr=4\&quality=100\&sign=1f9544f5\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331215751.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=39834779&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **影响分析**：Manta的TVL下降幅度更大，推测StakeStone的下降更多地受到了Manta的影响。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331220053.png.jpg\&width=768\&dpr=4\&quality=100\&sign=81c88dc0\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331220053.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=81c88dc0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 尽管StakeStone的TVL遭遇了大幅下滑，但其仍然保持着25万个ETH的TVL，这与Swell（29万ETH）和Frax Ether（27万ETH）的TVL处于相同的数量级。
 
-#### 生态合作 <a href="#sheng-tai-he-zuo" id="sheng-tai-he-zuo"></a>
+## 生态合作 <a href="#sheng-tai-he-zuo" id="sheng-tai-he-zuo"></a>
 
-**公链合作**
+### **公链合作**
 
 官方medium中最新的文章提及接下来的生态合作计划，将陆续的与更多的生态系统合作：[2](https://medium.com/@official\_42951/stakestone-omnichain-carnival-6a4fc10ebe4f)
 
@@ -107,25 +109,25 @@ STONE不仅是一个多链代币，这意味着它可以轻松地在不同的区
 * zkLink
 * … and more to come
 
-**合作伙伴**
+### **合作伙伴**
 
 官方推特中已宣布的合作伙伴有： @MantaNetwork @NativeX\_fi @MolendProtocol @TusimaNetwork @build\_on\_bob @OKX\_Ventures @modenetwork @zerolendxyz @KiloEx\_perp @zkHoldem @goku\_stable @MonroeProtocol @ApertureFinance @pacificswap @Realperp\_ @KeomProtocol @ShoebillFinance @LayerBankFi @InfStones @BSquaredNetwork @kinzafinance @movementlabsxyz @MerlinLayer2
 
 排名不分先后，未详尽收录的欢迎补充。
 
-**mode积分活动**
+### **mode积分活动**
 
 mode积分是有op超级链之一的mode二层网络项目，正在进行中的跨链资产积分激励活动。目前资产已支持STONE，并且跨链STONE可获得两倍积分加成。
 
 ![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331221829.png.jpg\&width=768\&dpr=4\&quality=100\&sign=8606dcdc\&sv=1)
 
-**BOB FUSION**
+### **BOB FUSION**
 
 BOB FUSION是build\_on\_bob正在进行中的资产跨链积分活动。该活动中，目前已兼容STONE，并且跨链资产使用STONE将可以获得1.3倍的分数加成。
 
 ![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331221628.png.jpg\&width=768\&dpr=4\&quality=100\&sign=4de2f7fb\&sv=1)
 
-#### 空投活动 <a href="#kong-tou-huo-dong" id="kong-tou-huo-dong"></a>
+## 空投活动 <a href="#kong-tou-huo-dong" id="kong-tou-huo-dong"></a>
 
 stakestone当前正在进行“全链嘉年华”活动[3](https://twitter.com/Stake\_Stone/status/1774074965807321538)
 
@@ -159,25 +161,27 @@ Copy
 
 虽然活动刚刚启动，并受到TVL下降的影响，许多尚未了解TVL下跌原因的用户仍在观望。然而，考虑到项目的业务逻辑以及来自ok币安的双重投资支持，预计活动的热度将逐步提升。鉴于第一轮活动的参与额度限制为20万个ETH，建议大家在gas价格较低时抓住机会参与，同时也可以持续关注活动的存款进度。
 
-**简单指引**
+## **简单指引**
 
 活动链接：
 
 [https://carnival.stakestone.io/r?code=B7134](https://carnival.stakestone.io/r?code=B7134)
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331222916.png.jpg\&width=768\&dpr=4\&quality=100\&sign=315b55ca\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331222916.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=315b55ca&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 打开页面，连接钱包
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331222946.png.jpg\&width=768\&dpr=4\&quality=100\&sign=97bb3f9\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331222946.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=97bb3f9&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 完成推特绑定、转推推文和验证
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223053.png.jpg\&width=768\&dpr=4\&quality=100\&sign=ba0c35ad\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223053.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ba0c35ad&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 进入到活动页面，右下角可以查看已存入锁定的资产进度。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223215.png.jpg\&width=768\&dpr=4\&quality=100\&sign=75071a51\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223329.png.jpg\&width=768\&dpr=4\&quality=100\&sign=4a6ee8b5\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223215.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=75071a51&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1. 点击LOCK，进行下一步。
 2. 选择ETH
@@ -185,16 +189,16 @@ Copy
 4. 点击“LOCK ETH”
 5. 确认发送交易
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223400.png.jpg\&width=768\&dpr=4\&quality=100\&sign=390d525\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223400.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=390d525&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 等待交易确认之后，则完成LOCK操作
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223553.png.jpg\&width=768\&dpr=4\&quality=100\&sign=6f5e01f0\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223553.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6f5e01f0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 页面中可以查看自己lock的资产情况 右下角也可以查看到活动已存入的资产为19766个ETH，进度接近10%。
 
 操作完成，后续持续关注项目官方公告即可。
 
-#### 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
+## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
 本文仅供学习和交流使用，其内容并不构成任何形式的投资建议。请您始终谨记，必须自行进行详细研究，并自我负责所有相关风险。

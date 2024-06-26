@@ -2,11 +2,11 @@
 description: 视频教程：https://youtu.be/0750UaRz92E
 ---
 
-# 🤭 Analog-网关教程
+# 🤭 \[0撸]Analog-GMP网关教程
 
-### 合约部署
+## 合约部署
 
-1. BranchlessMath.sol
+### 01. BranchlessMath.sol
 
 ```
 // SPDX-License-Identifier: MIT
@@ -177,7 +177,7 @@ library BranchlessMath {
 }
 ```
 
-2. Primitives.sol
+### 02. Primitives.sol
 
 ```
 // SPDX-License-Identifier: MIT
@@ -475,7 +475,7 @@ library PrimitiveUtils {
 }
 ```
 
-3. IGateway.sol
+### 03. IGateway.sol
 
 ```
 // SPDX-License-Identifier: MIT
@@ -527,9 +527,13 @@ interface IGateway {
 
 
 
+### 参数
+
 At Address - 0x000000007f56768de3133034fa730a909003a165
 
-submitMessage: gasLimit 30000&#x20;
+#### submitMessage:&#x20;
+
+gasLimit 30000&#x20;
 
 data 0x01&#x20;
 
@@ -541,7 +545,7 @@ shibuya address 0xB5D83c2436Ad54046d57Cd48c00D619D702F3814 and net 5
 
 
 
-Shibuya chain
+### Shibuya RPC
 
 <pre><code><a data-footnote-ref href="#user-content-fn-1">Shibuya</a> is running as a parachain of the Tokio Relay Chain, which is managed internally by the Astar team, and supports Shibuya, only, as test parachain.
 
