@@ -536,3 +536,24 @@ data 0x01&#x20;
 sepolia address 0xF871c929bE8Cd8382148C69053cE5ED1a9593EA7 and net 7&#x20;
 
 shibuya address 0xB5D83c2436Ad54046d57Cd48c00D619D702F3814 and net 5
+
+
+
+
+
+Shibuya chain
+
+<pre><code><a data-footnote-ref href="#user-content-fn-1">Shibuya</a> is running as a parachain of the Tokio Relay Chain, which is managed internally by the Astar team, and supports Shibuya, only, as test parachain.
+
+You can follow these steps-
+
+Step 1) Install MetaMask and connect to the Astar Network Shibuya Network
+Here are the details you can use to add the new network to MetaMask:
+Network Name : Shibuya Network
+New RPC URL : https://evm.shibuya.astar.network/
+Chain ID : 81
+Currency Symbol : SBY
+Block Explorer URL : https://shibuya.subscan.io/
+</code></pre>
+
+[^1]: 
