@@ -4,7 +4,7 @@ description: >-
   发表时间：2024-6-14
 ---
 
-# BLAST-加成倍数任务-借贷-VOL10
+# 👋 BLAST-加成倍数任务JuiceFinance-VOL10
 
 \#blast
 
