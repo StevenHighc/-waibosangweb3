@@ -19,7 +19,7 @@
 * [🚵‍♀️ BEVM-BinanceWeb3钱包空投任务](wai-bo-sang-web3-kong-tou-jiao-cheng/bevmbinanceweb3-qian-bao-kong-tou-ren-wu.md)
 * [🛞 Coral Finance-积分空投活动](wai-bo-sang-web3-kong-tou-jiao-cheng/coral-finance-ji-fen-kong-tou-huo-dong.md)
 * [🎣 Volmex-测试网积分活动](wai-bo-sang-web3-kong-tou-jiao-cheng/volmex-ce-shi-wang-ji-fen-huo-dong.md)
-* [\[链游\]Smolbound-早期参与社交任务](wai-bo-sang-web3-kong-tou-jiao-cheng/lian-you-smolbound-zao-qi-can-yu-she-jiao-ren-wu.md)
+* [😚 \[链游\]Smolbound-早期参与社交任务](wai-bo-sang-web3-kong-tou-jiao-cheng/lian-you-smolbound-zao-qi-can-yu-she-jiao-ren-wu.md)
 
 ## TON生态
 
