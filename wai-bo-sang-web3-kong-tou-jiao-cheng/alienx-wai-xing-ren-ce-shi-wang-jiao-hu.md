@@ -54,7 +54,9 @@ ALIENX是一条由AI节点驱动的高性能区块链，致力于成为NFT和游
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-2、转发推文，铸造测试网NFT，钱包签名，使用的是测试代币。![](<../.gitbook/assets/image (116).png>)![](<../.gitbook/assets/image (117).png>)![](<../.gitbook/assets/image (118).png>)
+2、转发推文，铸造测试网NFT，钱包签名，使用的是测试代币。
+
+![](<../.gitbook/assets/image (116).png>)![](<../.gitbook/assets/image (117).png>)![](<../.gitbook/assets/image (118).png>)
 
 3、交互，使用测试网代币，点击Go Now，在弹窗中再次点击Go Now，跳转到页面上，输入数量，点击Bridge，钱包确认，可进行五次，一次2分。从Sepolia跨链到Hal。
 
