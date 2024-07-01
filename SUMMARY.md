@@ -27,7 +27,9 @@
 * [🛻 Eigenlayer再质押委托空投领取](wai-bo-sang-web3-kong-tou-jiao-cheng/eigenlayer-zai-zhi-ya-wei-tuo-kong-tou-ling-qu.md)
 * [🎣 KIP Protocol社区空投第二期](wai-bo-sang-web3-kong-tou-jiao-cheng/kip-protocol-she-qu-kong-tou-di-er-qi.md)
 * [🦽 Bouncebit-币安Megadrop第一期活动](wai-bo-sang-web3-kong-tou-jiao-cheng/bouncebit-bi-an-megadrop-di-yi-qi-huo-dong.md)
-* [LISTA-币安Megadrop第二期活动](wai-bo-sang-web3-kong-tou-jiao-cheng/lista-bi-an-megadrop-di-er-qi-huo-dong.md)
+* [🖥️ LISTA-币安Megadrop第二期活动](wai-bo-sang-web3-kong-tou-jiao-cheng/lista-bi-an-megadrop-di-er-qi-huo-dong.md)
+* [💛 Particle Network-粒子钱包测试网积分任务](wai-bo-sang-web3-kong-tou-jiao-cheng/particle-network-li-zi-qian-bao-ce-shi-wang-ji-fen-ren-wu.md)
+* [Particle Network-钱包安全设置建议](wai-bo-sang-web3-kong-tou-jiao-cheng/particle-network-qian-bao-an-quan-she-zhi-jian-yi.md)
 
 ## TON生态
 

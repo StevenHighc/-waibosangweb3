@@ -1,0 +1,59 @@
+---
+description: >-
+  本文内容具有时效性，请注意，文中所提到的资讯、活动及信息可能已经发生变化，与当前实际情况有所不同。我们建议您在做出任何决策之前，始终进行自主研究和验证。
+  发表时间：2024-05-16
+---
+
+# Particle Network-钱包安全设置建议
+
+\#主密码 #邮箱 #安全
+
+## 活动时间 <a href="#huo-dong-shi-jian" id="huo-dong-shi-jian"></a>
+
+**活动时间**：未知
+
+**操作时间**：大约5分钟
+
+## 推荐理由 <a href="#tui-jian-li-you" id="tui-jian-li-you"></a>
+
+以防后续其它账号被封了，可以继续登录。
+
+## 简要操作步骤 <a href="#jian-yao-cao-zuo-bu-zhou" id="jian-yao-cao-zuo-bu-zhou"></a>
+
+链接: [https://wallet.particle.network/](https://wallet.particle.network/)
+
+1、链接账号，进入页面。
+
+2、设置主密码，建议是把主密码设置了。
+
+3、右上角设置，先把语言改成中文也行。
+
+4、账号与安全，安全验证中，设置邮箱。
+
+5、至于其它的随意。
+
+## 详细步骤 <a href="#xiang-xi-bu-zhou" id="xiang-xi-bu-zhou"></a>
+
+### **01安全设置**
+
+❗ ❗注意：前期使用推特或者DC登录的，以防被封号，一定要再加一个邮箱设置。
+
+1、进入页面，链接推特，关联推特账号。
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515102145.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4883e691&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+2、在弹出的窗口中可以先设置主密码，点击Set Now，设置密码，确认设置密码，点击Set Master Password。
+
+![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515102206.png.jpg\&width=768\&dpr=4\&quality=100\&sign=7b4b08c5\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515102229.png.jpg\&width=768\&dpr=4\&quality=100\&sign=4d34a8ac\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515102305.png.jpg\&width=768\&dpr=4\&quality=100\&sign=36a5b4eb\&sv=1)
+
+3、再在页面点击右上角设置，先将语言改为中文，比较容易看一点。
+
+![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185109.png.jpg\&width=768\&dpr=4\&quality=100\&sign=e87bcaac\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185138.png.jpg\&width=768\&dpr=4\&quality=100\&sign=c02b8bd8\&sv=1)
+
+4、语言换成中文之后，点击账号与安全，在安全验证选择邮箱，点击设置，输入邮箱，发送验证码，输入验证码，点击确定，即为绑定成功，其他随意，想绑定也是可以的。
+
+![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185326.png.jpg\&width=768\&dpr=4\&quality=100\&sign=830a85a3\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185354.png.jpg\&width=768\&dpr=4\&quality=100\&sign=bd76bd88\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185429.png.jpg\&width=768\&dpr=4\&quality=100\&sign=76ef54df\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185459.png.jpg\&width=768\&dpr=4\&quality=100\&sign=79ab29e\&sv=1)
+
+## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
+
+本文仅供学习和交流使用，其内容并不构成任何形式的投资建议。请您始终谨记，必须自行进行详细研究，并自我负责所有相关风险。

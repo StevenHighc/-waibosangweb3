@@ -4,7 +4,7 @@ description: >-
   发表时间：2024-05-31
 ---
 
-# LISTA-币安Megadrop第二期活动
+# 🖥️ LISTA-币安Megadrop第二期活动
 
 \#web3 #钱包 #质押
 
@@ -34,21 +34,21 @@ description: >-
 
 5、完成任务后，记得点击验证。
 
-⛔提示：第一期没有做过，还不知道怎么创建钱包查看此链接中的文章： [https://airdrop.wejoinweb3.com/bi-an-megadrop/bi-an-megadrop-di-yi-qi-huo-dong-bouncebit](https://airdrop.wejoinweb3.com/bi-an-megadrop/bi-an-megadrop-di-yi-qi-huo-dong-bouncebit)
+⛔提示：第一期没有做过，还不知道怎么创建钱包查看此链接中的文章：&#x20;
 
-[https://app.gitbook.com/o/B4ipttqtFaZQNgCcdNMT/s/WqEHh2N0LaDficBBXXAN/\~/changes/42/wai-bo-sang-web3-kong-tou-jiao-cheng/bouncebit-bi-an-megadrop-di-yi-qi-huo-dong](https://app.gitbook.com/o/B4ipttqtFaZQNgCcdNMT/s/WqEHh2N0LaDficBBXXAN/\~/changes/42/wai-bo-sang-web3-kong-tou-jiao-cheng/bouncebit-bi-an-megadrop-di-yi-qi-huo-dong)
+[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/wai-bo-sang-web3-kong-tou-jiao-cheng/lista-bi-an-megadrop-di-er-qi-huo-dong](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/wai-bo-sang-web3-kong-tou-jiao-cheng/lista-bi-an-megadrop-di-er-qi-huo-dong)
 
 ❗❗注意：不用使用导入进去的钱包。一定要使用币安创建的MPC钱包。
 
 ## 详细步骤 <a href="#xiang-xi-bu-zhou" id="xiang-xi-bu-zhou"></a>
 
-**01、兑换**
+### **01、兑换**
 
 1、点击web3，点击划转，选择币种，选择网络，输入数量，点击提现，确认无误之后，点击确认。
 
 ![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240531150821.png.jpg\&width=768\&dpr=4\&quality=100\&sign=42c0417\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240531150854.png.jpg\&width=768\&dpr=4\&quality=100\&sign=91467f17\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240531150945.png.jpg\&width=768\&dpr=4\&quality=100\&sign=e37527b8\&sv=1)
 
-**02、交互**
+### **02、交互**
 
 1、打开手机上的binance APP，点击左上角币安图标，进入页面点击Megadrop，
 
@@ -70,6 +70,6 @@ description: >-
 
 ![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240531151222.png.jpg\&width=768\&dpr=4\&quality=100\&sign=f2cc8cf9\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240531151452.png.jpg\&width=768\&dpr=4\&quality=100\&sign=518682ce\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240531151512.png.jpg\&width=768\&dpr=4\&quality=100\&sign=b4bec743\&sv=1)
 
-#### 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
+## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
 本文仅供学习和交流使用，其内容并不构成任何形式的投资建议。请您始终谨记，必须自行进行详细研究，并自我负责所有相关风险。
