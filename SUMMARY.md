@@ -29,7 +29,14 @@
 * [🦽 Bouncebit-币安Megadrop第一期活动](wai-bo-sang-web3-kong-tou-jiao-cheng/bouncebit-bi-an-megadrop-di-yi-qi-huo-dong.md)
 * [🖥️ LISTA-币安Megadrop第二期活动](wai-bo-sang-web3-kong-tou-jiao-cheng/lista-bi-an-megadrop-di-er-qi-huo-dong.md)
 * [💛 Particle Network-粒子钱包测试网积分任务](wai-bo-sang-web3-kong-tou-jiao-cheng/particle-network-li-zi-qian-bao-ce-shi-wang-ji-fen-ren-wu.md)
-* [Particle Network-钱包安全设置建议](wai-bo-sang-web3-kong-tou-jiao-cheng/particle-network-qian-bao-an-quan-she-zhi-jian-yi.md)
+* [📲 Particle Network-钱包安全设置建议](wai-bo-sang-web3-kong-tou-jiao-cheng/particle-network-qian-bao-an-quan-she-zhi-jian-yi.md)
+* [😆 Sanctum-第一季活动](wai-bo-sang-web3-kong-tou-jiao-cheng/sanctum-di-yi-ji-huo-dong.md)
+* [🚡 Counterfire第一期活动2之游戏](wai-bo-sang-web3-kong-tou-jiao-cheng/counterfire-di-yi-qi-huo-dong-2-zhi-you-xi.md)
+* [🚨 Counterfire第一期活动1之探索和开箱子](wai-bo-sang-web3-kong-tou-jiao-cheng/counterfire-di-yi-qi-huo-dong-1-zhi-tan-suo-he-kai-xiang-zi.md)
+* [🌲 Mint Blockchain 早期参与活动](wai-bo-sang-web3-kong-tou-jiao-cheng/mint-blockchain-zao-qi-can-yu-huo-dong.md)
+* [🌲 Mint Blockchain早期活动宝箱](wai-bo-sang-web3-kong-tou-jiao-cheng/mint-blockchain-zao-qi-huo-dong-bao-xiang.md)
+* [📷 Tabi NewWorld积分Mint$GG](wai-bo-sang-web3-kong-tou-jiao-cheng/tabi-newworld-ji-fen-mintgg.md)
+* [Tabi-第二季The Pirate Island测试网](wai-bo-sang-web3-kong-tou-jiao-cheng/tabi-di-er-ji-the-pirate-island-ce-shi-wang.md)
 
 ## TON生态
 

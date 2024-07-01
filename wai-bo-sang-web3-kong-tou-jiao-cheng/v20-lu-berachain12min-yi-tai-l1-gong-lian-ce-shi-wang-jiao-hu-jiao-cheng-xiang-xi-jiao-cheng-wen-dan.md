@@ -32,53 +32,53 @@ Berachain 是一条基于流动性证明共识构建的高性能 EVM 兼容公�
 
 1.  同意网站条款，链接钱包，添加网络。[https://bartio.bex.berachain.com/swap](https://bartio.bex.berachain.com/swap)
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. 水龙头请求测试代币$bera（领取成功不一定到账成功，以钱包到账为准）
    1.  官方领水地址1(间隔8小时)：[https://bartio.faucet.berachain.com/](https://bartio.faucet.berachain.com/)
 
-       <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  兑换：在不同的配对中执行多次交换，从 $bera 兑换为 $STGUSDC，$wbtc或者$weth（后面有用）。[https://bartio.bex.berachain.com/swap](https://bartio.bex.berachain.com/swap)
 
-    <figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4.  将 $STGUSDC 铸造为 $Honey（Berachain 原生稳定币）。[https://bartio.honey.berachain.com/](https://bartio.honey.berachain.com/)
 
-    <figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5.  向资金池添加流动性。[https://bartio.bex.berachain.com/pools](https://bartio.bex.berachain.com/pools)
 
-    <figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     1.  领取BGT（Bera治理代币）（如果有Claim的话。BGT数量很少，领取时点Max后再领取。
 
-        <figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-    <figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 6.  交易：开仓并立即平仓**（如果前几次交互测试币可能不够则先跳过该步骤）.**[**https://bartio.berps.berachain.com/berpetuals**](https://bartio.berps.berachain.com/berpetuals)
 
     1.  开仓：最少需要10$Honey
 
-        <figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
     2. 关仓（平仓）
 
-    <figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 7.  在 Bend 借用 $HONEY**（如果前几次交互测试币可能不够则先跳过该步骤）。**[**https://bartio.bend.berachain.com/dashboard**](https://bartio.bend.berachain.com/dashboard)**需要在步骤3中先将少量$bera兑换成$wbtc或者$weth**
 
-    <figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 8. 将任意数量的 $HONEY 代币存入 Vault。[https://bartio.bend.berachain.com/dashboard](https://bartio.bend.berachain.com/dashboard)
    1.  存入质押
 
-       <figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
    2.  取BGT（Bera治理代币）（如果有Claim的话）
 
-       <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 9.  质押 $BGT（获得BGT需要时间等待，没有则先跳过该步骤）[https://bartio.station.berachain.com/gauge](https://bartio.station.berachain.com/gauge)
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 10. 投票治理**（获得BGT需要时间等待，没有则先跳过该步骤）。**[**https://bartio.station.berachain.com/delegate**](https://bartio.station.berachain.com/delegate)\
     **选择任意一个active状态的进行投票**
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

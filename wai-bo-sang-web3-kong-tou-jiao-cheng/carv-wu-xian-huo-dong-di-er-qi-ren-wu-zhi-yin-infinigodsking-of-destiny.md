@@ -42,7 +42,7 @@ carve无限活动中排名第一，游戏简单，获取的Soul分数较多。
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240428114826.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c5e026df&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、简单的社交任务，一些推特的关注，点赞，转推 与加入Discord。&#x20;
 
@@ -54,7 +54,7 @@ carve无限活动中排名第一，游戏简单，获取的Soul分数较多。
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240428120210.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f8468389&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 4、登录后，进入页面，使用跟carv一样的钱包绑定的，点击SIGN，钱包确认。后续了解到NFT对游戏有用之处，想要购买NFT，也是可以进行购买的。
 
@@ -70,11 +70,11 @@ carve无限活动中排名第一，游戏简单，获取的Soul分数较多。
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240430110133.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bb64f10b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240430110246.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a874ccd4&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240430114119.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1a7bca73&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
@@ -86,13 +86,13 @@ carve无限活动中排名第一，游戏简单，获取的Soul分数较多。
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240430145909.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2bb8f462&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
 8、打造家园，需要消耗金币，来获取星星，金币使用完之后，点击PLAY，进行抽卡，获取金币，也有一些抽中眼睛，眼睛填满之后，还可以去掠夺别人的家园，来获取金币，与验证carve中FATE的任务。
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240430150437.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3aee8712&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

@@ -68,7 +68,7 @@ description: >-
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240517160628.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2963de93&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240517160704.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6b86fd74&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
@@ -88,7 +88,7 @@ NFT上文已经购买了一个了， 代币的话，钱包中应该会空投一�
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240517161846.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b2971e3e&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

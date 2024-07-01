@@ -10,13 +10,13 @@ description: >-
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 
-### **活动时间**：——
+**活动时间**：——
 
-### **操作时间**：大约时间10分钟左右
+**操作时间**：大约时间10分钟左右
 
-### **准备资金**：——
+**准备资金**：—
 
-### **交互成本**：——
+**交互成本**：——
 
 ## 推荐理由 <a href="#tui-jian-li-you" id="tui-jian-li-you"></a>
 

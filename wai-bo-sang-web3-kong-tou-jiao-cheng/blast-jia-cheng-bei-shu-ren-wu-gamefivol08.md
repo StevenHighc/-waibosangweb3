@@ -54,7 +54,7 @@ description: >-
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180636.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2895be20&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180803.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=44aec9ae&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
