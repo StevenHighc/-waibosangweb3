@@ -4,7 +4,7 @@ description: >-
   发表时间：2024-05-07 19:12
 ---
 
-# People's Launchpad-BITSMILEY攻略-VOL03
+# 🚐 People's Launchpad-BITSMILEY攻略-VOL03
 
 > 人民的发射台第三期来了
 
@@ -121,7 +121,9 @@ bitSmiley 是基于 Fintegra 框架下比特币区块链的协议。它由三个
 
 [https://launchpad.ally.build?id=3\&inviteCode=BCGVKL](https://launchpad.ally.build/?id=3\&inviteCode=BCGVKL)
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507200927.png.jpg\&width=768\&dpr=4\&quality=100\&sign=af73ee0b\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507201006.png.jpg\&width=768\&dpr=4\&quality=100\&sign=22587a9e\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507200927.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=af73ee0b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507201006.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=22587a9e&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 1. 打开链接，点击右上角的JOIN NOW
 2. 建议使用EMAIL注册
@@ -130,7 +132,9 @@ bitSmiley 是基于 Fintegra 框架下比特币区块链的协议。它由三个
 
 ### **02 链接外部EVM钱包**
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507201343.png.jpg\&width=768\&dpr=4\&quality=100\&sign=ab071f00\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507201423.png.jpg\&width=768\&dpr=4\&quality=100\&sign=3e7d2a41\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507201343.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ab071f00&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507201423.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3e7d2a41&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 1. 点击“LINK ADDITIONAL WALLETS”
 2. 点击“LINK EVM WALLET”
@@ -173,7 +177,9 @@ NFT目前地板价：0.014BTC
 
 ### **05 持有bitUSD**
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507203858.png.jpg\&width=768\&dpr=4\&quality=100\&sign=5c9f8141\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507204211.png.jpg\&width=768\&dpr=4\&quality=100\&sign=d96f649f\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507203858.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5c9f8141&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507204211.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d96f649f&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 1. 通过[Meson](https://meson.fi/)跨链桥，将USDT从其他链上跨到bitlayer上
 2. USDT跨链成功后，并且作为gas的btc也跨链成功之后，进入[bitCOW](https://bitcow.xyz/swap)
@@ -183,7 +189,7 @@ NFT目前地板价：0.014BTC
 6. 确认无误，点击swap后，弹窗先进行一笔代币授权
 7. 授权成功之后，点击swap
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507204351.png.jpg\&width=768\&dpr=4\&quality=100\&sign=fc245dc2\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507204351.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fc245dc2&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 1. 兑换成功之后，回到[people's lauchpad](https://launchpad.ally.build/?id=3\&inviteCode=BCGVKL)页面，点击Hold bitUSD这一行右边的“DO IT”
 2. 在弹窗中，确认bitUSD的余额，以及可以获得的Powers，确认无误后，再点击VERIFY
@@ -202,12 +208,18 @@ NFT目前地板价：0.014BTC
 
 ### **06 bitcow上的swap**
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507204917.png.jpg\&width=768\&dpr=4\&quality=100\&sign=fc102a5e\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210344.png.jpg\&width=768\&dpr=4\&quality=100\&sign=18987cb5\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507204917.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fc102a5e&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210344.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=18987cb5&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 1. 进入[bitCOW](https://bitcow.xyz/swap)，想要刷swap次数的，请使用小狐狸钱包进行连接。小狐狸钱包可以自定义gas费率，okx钱包会有一些限制
 2. 打开[bitlayer浏览器](https://www.btrscan.com/)，查询当前gas费率
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210445.png.jpg\&width=768\&dpr=4\&quality=100\&sign=6f1c947f\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210547.png.jpg\&width=768\&dpr=4\&quality=100\&sign=707583c\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210636.png.jpg\&width=768\&dpr=4\&quality=100\&sign=cbbf2baf\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210445.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6f1c947f&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210547.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=707583c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210636.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cbbf2baf&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 1. 进行一笔兑换操作时，点击小狐狸弹窗中的gas编辑按钮
 2. 点击”高级“
@@ -218,14 +230,14 @@ NFT目前地板价：0.014BTC
 
 刷swap的次数，只看成功的swap记录数量，不看swap的数量。 wbtc的货币兑，gas会便宜些。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210927.png.jpg\&width=768\&dpr=4\&quality=100\&sign=b95b042\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507210927.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b95b042&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 1. 选择WBTC
 2. 选择BITUSD，WBTC跟BITUSD换来换去就可以
 3. 这里点击之后，将滑点修改为5%。
 4. 交易数量，建议折合0.01USD左右，微小数量交易磨损小，不容易交易失败。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507211244.png.jpg\&width=768\&dpr=4\&quality=100\&sign=ee7bbd3\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507211244.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ee7bbd3&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 操作有1-2次swap之后，可以回到[people's lauchpad](https://launchpad.ally.build/?id=3\&inviteCode=BCGVKL)，点击“swap on the bitCOW”这一行右边的“DO IT”，在弹窗中，点击VERIFY，确认swap的次数，以及可以获得的Powers是否正确。
 
@@ -237,7 +249,7 @@ NFT目前地板价：0.014BTC
 
 ### **07 质押ALLY**
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507211603.png.jpg\&width=768\&dpr=4\&quality=100\&sign=83509874\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240507211603.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=83509874&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 1. 点击这一行的“DO IT”
 2. 点击MAX
@@ -252,7 +264,7 @@ NFT目前地板价：0.014BTC
 2. 点击之后，弹窗中，可以看到交易记录，STATUS下面，会有一个“REDEEM“按钮
 3. 点击之后，支付LINEA链上的一点ETH，即可赎回之前质押的$ALLY
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F166c963af337648313995f6a0615e6d.png.jpg\&width=768\&dpr=4\&quality=100\&sign=6be3d629\&sv=1)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F166c963af337648313995f6a0615e6d.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6be3d629&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 往期的launchpad [MERLIN](https://launchpad.ally.build/zh-CN/details?id=1) [CAPYBARA CREW](https://launchpad.ally.build/zh-CN/details?id=2)
 

@@ -22,8 +22,9 @@
 * [🛞 Coral Finance-积分空投活动](wai-bo-sang-web3-kong-tou-jiao-cheng/coral-finance-ji-fen-kong-tou-huo-dong.md)
 * [🎣 Volmex-测试网积分活动](wai-bo-sang-web3-kong-tou-jiao-cheng/volmex-ce-shi-wang-ji-fen-huo-dong.md)
 * [😚 \[链游\]Smolbound-早期参与社交任务](wai-bo-sang-web3-kong-tou-jiao-cheng/lian-you-smolbound-zao-qi-can-yu-she-jiao-ren-wu.md)
-* [People's Launchpad-BITSMILEY攻略-VOL03](wai-bo-sang-web3-kong-tou-jiao-cheng/peoples-launchpadbitsmiley-gong-le-vol03.md)
-* [People's Launchpad主网倍数签到](wai-bo-sang-web3-kong-tou-jiao-cheng/peoples-launchpad-zhu-wang-bei-shu-qian-dao.md)
+* [🚐 People's Launchpad-BITSMILEY攻略-VOL03](wai-bo-sang-web3-kong-tou-jiao-cheng/peoples-launchpadbitsmiley-gong-le-vol03.md)
+* [🥎 People's Launchpad主网倍数签到](wai-bo-sang-web3-kong-tou-jiao-cheng/peoples-launchpad-zhu-wang-bei-shu-qian-dao.md)
+* [Eigenlayer再质押委托空投领取](wai-bo-sang-web3-kong-tou-jiao-cheng/eigenlayer-zai-zhi-ya-wei-tuo-kong-tou-ling-qu.md)
 
 ## TON生态
 
