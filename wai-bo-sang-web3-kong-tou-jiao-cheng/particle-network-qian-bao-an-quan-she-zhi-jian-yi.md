@@ -40,19 +40,31 @@ description: >-
 
 1、进入页面，链接推特，关联推特账号。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515102145.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4883e691&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 2、在弹出的窗口中可以先设置主密码，点击Set Now，设置密码，确认设置密码，点击Set Master Password。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515102206.png.jpg\&width=768\&dpr=4\&quality=100\&sign=7b4b08c5\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515102229.png.jpg\&width=768\&dpr=4\&quality=100\&sign=4d34a8ac\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515102305.png.jpg\&width=768\&dpr=4\&quality=100\&sign=36a5b4eb\&sv=1)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 3、再在页面点击右上角设置，先将语言改为中文，比较容易看一点。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185109.png.jpg\&width=768\&dpr=4\&quality=100\&sign=e87bcaac\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185138.png.jpg\&width=768\&dpr=4\&quality=100\&sign=c02b8bd8\&sv=1)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 4、语言换成中文之后，点击账号与安全，在安全验证选择邮箱，点击设置，输入邮箱，发送验证码，输入验证码，点击确定，即为绑定成功，其他随意，想绑定也是可以的。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185326.png.jpg\&width=768\&dpr=4\&quality=100\&sign=830a85a3\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185354.png.jpg\&width=768\&dpr=4\&quality=100\&sign=bd76bd88\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185429.png.jpg\&width=768\&dpr=4\&quality=100\&sign=76ef54df\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240515185459.png.jpg\&width=768\&dpr=4\&quality=100\&sign=79ab29e\&sv=1)
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

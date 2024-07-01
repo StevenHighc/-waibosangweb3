@@ -79,7 +79,7 @@ STONE不仅是一个多链代币，这意味着它可以轻松地在不同的区
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331215751.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=39834779&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **影响分析**：Manta的TVL下降幅度更大，推测StakeStone的下降更多地受到了Manta的影响。
 
@@ -181,7 +181,7 @@ Copy
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223215.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=75071a51&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 点击LOCK，进行下一步。
 2. 选择ETH
