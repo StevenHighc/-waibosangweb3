@@ -4,7 +4,7 @@ description: >-
   发表时间：2024-05-20 17:58
 ---
 
-# Eigenlayer再质押委托空投领取
+# 🛻 Eigenlayer再质押委托空投领取
 
 \#再质押 #restake #eigen #eigenlayer
 

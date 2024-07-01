@@ -24,7 +24,10 @@
 * [😚 \[链游\]Smolbound-早期参与社交任务](wai-bo-sang-web3-kong-tou-jiao-cheng/lian-you-smolbound-zao-qi-can-yu-she-jiao-ren-wu.md)
 * [🚐 People's Launchpad-BITSMILEY攻略-VOL03](wai-bo-sang-web3-kong-tou-jiao-cheng/peoples-launchpadbitsmiley-gong-le-vol03.md)
 * [🥎 People's Launchpad主网倍数签到](wai-bo-sang-web3-kong-tou-jiao-cheng/peoples-launchpad-zhu-wang-bei-shu-qian-dao.md)
-* [Eigenlayer再质押委托空投领取](wai-bo-sang-web3-kong-tou-jiao-cheng/eigenlayer-zai-zhi-ya-wei-tuo-kong-tou-ling-qu.md)
+* [🛻 Eigenlayer再质押委托空投领取](wai-bo-sang-web3-kong-tou-jiao-cheng/eigenlayer-zai-zhi-ya-wei-tuo-kong-tou-ling-qu.md)
+* [🎣 KIP Protocol社区空投第二期](wai-bo-sang-web3-kong-tou-jiao-cheng/kip-protocol-she-qu-kong-tou-di-er-qi.md)
+* [🦽 Bouncebit-币安Megadrop第一期活动](wai-bo-sang-web3-kong-tou-jiao-cheng/bouncebit-bi-an-megadrop-di-yi-qi-huo-dong.md)
+* [LISTA-币安Megadrop第二期活动](wai-bo-sang-web3-kong-tou-jiao-cheng/lista-bi-an-megadrop-di-er-qi-huo-dong.md)
 
 ## TON生态
 
