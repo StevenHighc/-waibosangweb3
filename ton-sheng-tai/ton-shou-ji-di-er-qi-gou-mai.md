@@ -54,7 +54,7 @@ description: >-
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614143101.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6ecfc1b0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614143154.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a0e2e926&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ description: >-
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614145042.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=172a08c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **02、购买**
 
@@ -74,23 +74,23 @@ description: >-
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614150805.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=27448165&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、链接钱包，选择Tonkeeper，点击GetTonkeeper，链接钱包，输入密码，点击确认。
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614151009.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2cd0d8ee&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614153225.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1c74c4dc&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4、收货地址，填写名字，选择国家，输入邮编，选择省份，输入城市，输入详细地址，输入电话号码，打勾，点击Pay with TON，
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614151956.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7a91751b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614155155.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=af885e24&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 

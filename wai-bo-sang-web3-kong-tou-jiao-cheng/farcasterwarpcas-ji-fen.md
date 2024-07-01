@@ -44,16 +44,16 @@ _Warpcast_ 是去中心化的社交网络Farcaster 的客户端，可以帮助�
 
 1、进入页面，输入邮箱，根据需要，下载对应的warpcast，如iOS或安卓。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、以下以iOS为例，在 App Store 直接搜索 Warpcast 即可下载，下载完成后，点击新建账户，会自动生成一个钱包助记词，复制保存好，或者手抄下来\
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **02、登录PC端**
 
@@ -62,13 +62,13 @@ _Warpcast_ 是去中心化的社交网络Farcaster 的客户端，可以帮助�
 1、打开网页端，点击登录，进行绑定账号，使用手机相机对准二维码进行扫码，点击链接跳转到手机软件，需要滑动确认本人登录。\
 
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、网页端登陆成功后，用户可进行以太坊钱包绑定。在首页左上角点击设置，连接地址，点击「connect」
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

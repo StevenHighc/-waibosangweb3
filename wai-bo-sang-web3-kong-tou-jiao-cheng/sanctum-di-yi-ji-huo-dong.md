@@ -38,15 +38,15 @@ Sanctum 是基于 Solana 构建的新原语，为流动性质押提供动力，�
 
 1、进入页面，使用solana钱包链接，建议是使用phantom。
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、邀请码系统会自动识别，点击Join now ,接着点击yes，钱包确认。
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 02、质押
 
@@ -54,35 +54,35 @@ Sanctum 是基于 Solana 构建的新原语，为流动性质押提供动力，�
 
 ❗❗注意：至少要 0.12个 SOL 才可以激活宠物，资产不够，宠物会进入休眠状态，那就无法赚取积分。
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、质押完毕后，耐心等待几分钟，“宠物”就激活了，它会自动帮你生产积分，积分在右上角可以看到。
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、点击wonderland，点击右上角星星图标，弹出的窗口中可以查看获得的宠物数量，再往下划，就可以看到所获得宠物赚取积分。
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **03、社区任务**
 
 1、页面往下滑，找到Community Quests,右侧两个小三角切换页面，找到任务，每周任务不一样，记得上去做，会有奖励。
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、任务一只需要购买任务就已经完成了。任务二与任务三的答案可以去推特上面找。
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 点击小三角找到任务页面，就可以进行答题。
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

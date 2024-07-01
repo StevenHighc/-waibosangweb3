@@ -39,6 +39,7 @@
 * [📸 Tabi-第二季The Pirate Island测试网](wai-bo-sang-web3-kong-tou-jiao-cheng/tabi-di-er-ji-the-pirate-island-ce-shi-wang.md)
 * [🎞️ Farcaster-Warpcas积分](wai-bo-sang-web3-kong-tou-jiao-cheng/farcasterwarpcas-ji-fen.md)
 * [👽 Alienx-外星人测试网交互](wai-bo-sang-web3-kong-tou-jiao-cheng/alienx-wai-xing-ren-ce-shi-wang-jiao-hu.md)
+* [Babylon测试网质押](wai-bo-sang-web3-kong-tou-jiao-cheng/babylon-ce-shi-wang-zhi-ya.md)
 
 ## TON生态
 

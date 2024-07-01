@@ -65,7 +65,7 @@ bebop官网：[https://bebop.xyz/trade?network=blast](https://bebop.xyz/trade?ne
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240416170419.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=617d4924&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. 编辑授权额度
 7. 输入授权数量，建议输入本次交易的数量
