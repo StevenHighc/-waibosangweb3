@@ -38,6 +38,8 @@ description: >-
 
 1、先到EPIC GAMES中注册账号,登录后到FPIC游戏商城中搜索并将Nyan Hoeroes添加到愿望清单后，返回验证（记得开梯子，注册还是登录过程是有地区限制的）
 
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509104045.png.jpg&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=44eee461&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 2、简单的社交任务，关注，转发，点赞，加入Dscord，订阅YouTube中Nyan Heroes频道，并且观看。
@@ -48,7 +50,7 @@ description: >-
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240430172338.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b3698a9a&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 #### 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
