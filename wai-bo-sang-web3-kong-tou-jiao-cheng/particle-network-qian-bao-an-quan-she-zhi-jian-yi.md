@@ -40,7 +40,7 @@ description: >-
 
 1、进入页面，链接推特，关联推特账号。
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 2、在弹出的窗口中可以先设置主密码，点击Set Now，设置密码，确认设置密码，点击Set Master Password。
 

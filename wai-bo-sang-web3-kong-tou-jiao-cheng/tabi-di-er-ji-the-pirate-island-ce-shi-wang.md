@@ -2,7 +2,7 @@
 description: 本文内容具有时效性，请注意，文中所提到的资讯、活动及信息可能已经发生变化，与当前实际情况有所不同。我们建议您在做出任何决策之前，始终进行自主研究和验证。
 ---
 
-# Tabi-第二季The Pirate Island测试网
+# 📸 Tabi-第二季The Pirate Island测试网
 
 \#币安 #NFT #代币 #白名单
 
@@ -48,13 +48,13 @@ Tide Rider's Journey、进入页面，点击第一个Join，授权Discord。
 
 1、进入页面，点击水龙头。
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 2、输入钱包地址，点击Request。
 
 注意：有一些节点不可用，如果出现红色提示，可关掉梯子，重新刷新一下再进行领取，也有一些就算不关掉梯子也可以进行领取的。
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 ## 详细步骤 <a href="#xiang-xi-bu-zhou" id="xiang-xi-bu-zhou"></a>
 
@@ -62,45 +62,19 @@ Tide Rider's Journey、进入页面，点击第一个Join，授权Discord。
 
 1、链接钱包，输入邀请码，点击点击Mission。
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 ### **02、任务**
 
 1、Mariner's Meet，授权X账号，关注官方X账号，点击Verify，授权Discord，成为Discord中成员，点击Verify。
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
-
-2、Reddit Harbor，授权 Reddit账号，有账号的登录后可以直接授权，没有账号需要注册一个。
-
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
-
-3、Tabi Treasure Trail过授权X账号，直接点击Verify，复制 Tabi 与图标 添加到您的 X账号的名称中，点击save。
-
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-4、Sailor's Shoutout Station，授权过X账号，直接点击Verify，发布推文，点击Verify。
-
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
-
-5、Sailor's Shoutout Station，（1）、买入NFT ，点击Go,跳转到页面，链接钱包，点击Collections，页面往下滑，找到最便宜的，点击进入页面进行购买，钱包签名，购买之后检查一下，返回页面点击Verify。
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+
+2、Reddit Harbor，授权 Reddit账号，有账号的登录后可以直接授权，没有账号需要注册一个。
 
 <figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
@@ -108,13 +82,15 @@ Tide Rider's Journey、进入页面，点击第一个Join，授权Discord。
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
+3、Tabi Treasure Trail过授权X账号，直接点击Verify，复制 Tabi 与图标 添加到您的 X账号的名称中，点击save。
+
 <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-（2）、卖出NFT，点击Go，进入页面，点击头像，在列表上点击profile，页面上点击NFT，点击Sell，输入价格，点击List Now，钱包签名，页面数据共享有点慢，回到原页面点击Verify，如果没通过，刷新页面，等会再试。
-
 <figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+
+4、Sailor's Shoutout Station，授权过X账号，直接点击Verify，发布推文，点击Verify。
 
 <figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
@@ -122,15 +98,13 @@ Tide Rider's Journey、进入页面，点击第一个Join，授权Discord。
 
 <figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-6、Voyage Vanguard，点击Go，进入页面链接钱包，需要mintNFT。建议：（这个任务与第七个任务是链接在一起的，如果不明白可以先过第七个任务再来进行mint）
-
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+5、Sailor's Shoutout Station，（1）、买入NFT ，点击Go,跳转到页面，链接钱包，点击Collections，页面往下滑，找到最便宜的，点击进入页面进行购买，钱包签名，购买之后检查一下，返回页面点击Verify。
 
 <figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-（1) mintNFT需要先获取白名单，（2）页面上点击Sail，点击Join。（3）进入页面点击Connect Discord，跳转到Tabi Discord中进行抽奖。（4）获奖后，回到Launchpad页面，进行mint。参与的时候如果白名单抽奖过去了，那就等下一期，测试网暂时还没有结束时间。
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
@@ -138,7 +112,7 @@ Tide Rider's Journey、进入页面，点击第一个Join，授权Discord。
 
 <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
-7、Tide Rider's Journey，这个应该在第六个任务完成后，验证就可以通过的，但是也可以先做这个任务进行抽奖，抽中白名单再进行mintNFT。点击Go，进入页面，点击第Join，进入页面点击Connect Discord，选择Discord，再次授权，返回前一个页面，点击Join Now，跳转到Discord，点击Verify，再返回页面点击Verify，成功之后返回页面点击Verify。
+（2）、卖出NFT，点击Go，进入页面，点击头像，在列表上点击profile，页面上点击NFT，点击Sell，输入价格，点击List Now，钱包签名，页面数据共享有点慢，回到原页面点击Verify，如果没通过，刷新页面，等会再试。
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
@@ -147,6 +121,32 @@ Tide Rider's Journey、进入页面，点击第一个Join，授权Discord。
 <figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+
+6、Voyage Vanguard，点击Go，进入页面链接钱包，需要mintNFT。建议：（这个任务与第七个任务是链接在一起的，如果不明白可以先过第七个任务再来进行mint）
+
+<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+
+（1) mintNFT需要先获取白名单，（2）页面上点击Sail，点击Join。（3）进入页面点击Connect Discord，跳转到Tabi Discord中进行抽奖。（4）获奖后，回到Launchpad页面，进行mint。参与的时候如果白名单抽奖过去了，那就等下一期，测试网暂时还没有结束时间。
+
+<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+
+7、Tide Rider's Journey，这个应该在第六个任务完成后，验证就可以通过的，但是也可以先做这个任务进行抽奖，抽中白名单再进行mintNFT。点击Go，进入页面，点击第Join，进入页面点击Connect Discord，选择Discord，再次授权，返回前一个页面，点击Join Now，跳转到Discord，点击Verify，再返回页面点击Verify，成功之后返回页面点击Verify。
+
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

@@ -44,21 +44,21 @@ GreenID NFT 代表您在 Mint Forest 中与 MintTree 相关的所有未来权利
 
 选择mint，点击Send，钱包确认。
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ### **02、宝箱**
 
 1、进入页面，打开宝箱，在窗口中点击Activate it，钱包确认。
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 2、不同等级，可以激活不同等级的greenID。
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

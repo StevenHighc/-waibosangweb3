@@ -44,29 +44,29 @@ description: >-
 
 1、进入页面点击New World，填写数量，选择10X，点击Exchange。
 
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 2、在弹窗中点击pay Now，钱包确认。
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 3、点击Switch Network To Tabitest，点击切换网络，点击mint，钱包确认。
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 ### **02、添加代币**
 
 1、打开钱包，点击添加代币，输入合约地址（0x043487849a41465d98aCd1F47d45c4AFd6932143 (Tabi Testnet)，参考官方文档：[https://blog.tabi.lol/#/article/21](https://blog.tabi.lol/#/article/21)），点击下一步，点击添加。
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

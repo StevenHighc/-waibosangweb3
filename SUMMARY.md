@@ -36,7 +36,9 @@
 * [🌲 Mint Blockchain 早期参与活动](wai-bo-sang-web3-kong-tou-jiao-cheng/mint-blockchain-zao-qi-can-yu-huo-dong.md)
 * [🌲 Mint Blockchain早期活动宝箱](wai-bo-sang-web3-kong-tou-jiao-cheng/mint-blockchain-zao-qi-huo-dong-bao-xiang.md)
 * [📷 Tabi NewWorld积分Mint$GG](wai-bo-sang-web3-kong-tou-jiao-cheng/tabi-newworld-ji-fen-mintgg.md)
-* [Tabi-第二季The Pirate Island测试网](wai-bo-sang-web3-kong-tou-jiao-cheng/tabi-di-er-ji-the-pirate-island-ce-shi-wang.md)
+* [📸 Tabi-第二季The Pirate Island测试网](wai-bo-sang-web3-kong-tou-jiao-cheng/tabi-di-er-ji-the-pirate-island-ce-shi-wang.md)
+* [🎞️ Farcaster-Warpcas积分](wai-bo-sang-web3-kong-tou-jiao-cheng/farcasterwarpcas-ji-fen.md)
+* [👽 Alienx-外星人测试网交互](wai-bo-sang-web3-kong-tou-jiao-cheng/alienx-wai-xing-ren-ce-shi-wang-jiao-hu.md)
 
 ## TON生态
 
