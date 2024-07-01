@@ -48,7 +48,7 @@ description: >-
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240520150237.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b1c4ccde&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、关联推特账号，在红框哪里会有一个真人验证，验证之后，关注官方推特。
 

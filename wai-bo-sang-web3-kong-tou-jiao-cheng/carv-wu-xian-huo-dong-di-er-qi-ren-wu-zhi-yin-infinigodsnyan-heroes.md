@@ -40,15 +40,13 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509104045.png.jpg&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=44eee461&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
 2、简单的社交任务，关注，转发，点赞，加入Dscord，订阅YouTube中Nyan Heroes频道，并且观看。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240430170116.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=314c5b4e&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3、点击start，跳转到MAGIC EDEN网站上添加solana地址，然后进行购买NFT，建议是不买，自己掂量。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240430172338.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b3698a9a&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
