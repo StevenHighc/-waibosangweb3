@@ -1,25 +1,73 @@
-# 😄 随便聊聊
+---
+description: >-
+  本文内容具有时效性，请注意，文中所提到的资讯、活动及信息可能已经发生变化，与当前实际情况有所不同。我们建议您在做出任何决策之前，始终进行自主研究和验证。
+  发表时间：2024-4-15 17:11:56
+---
 
-\--------------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+# 🥎 TON手机第一期购买
 
-【啰嗦几句】最近国内文档被举报的有点多。求放过!我只是做个人兴趣爱好的事情。如有侵犯，请私聊我。谢谢
+\#TON #ton生态 #手机 #bitget钱包 #ton
 
-【自我介绍】本人23年12月份左右被朋友带入圈，从之前的新手到现在还是新手，到现在对整个行业认知还是只是管中窥豹。每个人都有进来这个圈子的理由，而我的理由是我有證件優勢，对新事物感兴趣，并且我坚信这个行业可以给我想要的自由。所以在任何时候只有有人带我，都是最好的时机。
+## 手机介绍 <a href="#shou-ji-jie-shao" id="shou-ji-jie-shao"></a>
 
-【为什么】为什么做这个wiki？一直以来我都有记录的习惯，只不过不对外的话我就自己能看懂就行了。在刚开始玩空投的时候，我很依赖于别人给的空投交互文档，但也是经常卡住做不下去，做到怀疑人生怀疑智商。虽然开口问是能问到的，但是这个过程就挺难受，花费的时间经历都不少（内耗）。所以我做这个文档的初衷是尽可能的详细把参加项目的流程写清楚，也算给刚来的人提供一点力所能及的帮助吧。**我真的很讨厌有些人只是扔了一个带了邀请码的链接，然后说这个活动很好回报很高很简单只要点点点就可以了。**
+TON手机可以参考solana手机，solana手机已经获得solana生态上的空投了，所以这个想象空间还是很大的。
 
-【回报】写文档并分享是我自发的做自己喜欢的事情，也不是全职在做。每个项目我都有研究并参与，所以在文档中的注册步骤我会放上我的邀请链接或者邀请码。有时候会做成超链是因为链接实在太长了很难看，再加上大家对这个链接就是邀请链接的共同认知。我就懒得去做什么解释了。如果有对邀请链接过敏的，可以在跳转后把refer/r/ref等字眼和后面的部分删掉，就得到干净的活动链接。我当然是希望大家借鉴我的劳动成功时也可以使用我的邀请链接，算是对我投币了吧\~（感谢!!!）这里说明先后顺序，我挖掘项目应该不是最快的那一批，如果大家在其他地方已经参与了项目，再参考我的教程，我也很欢迎的\~
+## 注意事项 <a href="#zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
 
-【免责声明】更新频率在2个/周，空投周期有些很长，项目累积多了就不能都顾全。一条鱼吃80%>每条鱼都吃一小口。文档中只是把我和其他伙伴觉得不错的项目分享出来，大家也要做好自己的调研（DYOR），不需要人云亦云。玩空投收获的概率不可能百分百能的，存在垃圾项目方和币价，不断拉长测试或任务时间，有女巫机制，有第二第三期的质押或快照条件等。我能做的是把事情先踩一遍，你们再决定要不要也走这条路。决定权在玩家自己手里。
+1、建议使用bitget钱包，因为okx，暂时还没有兼容，其他的钱包操作起来也比较麻烦，所以使用bitget钱包获取TON钱包地址。
 
-【wx交流群】-定期更新二维码
+2、建议准备一张不常用的信用卡。
 
-我没有时间精力去写群规则，管理群聊天动态，毕竟这个圈子的话题在wx就很容易被警告或封群。所以我不想建一个乱糟糟充斥各种垃圾信息的群。活在这个垃圾信息满天飞的世界都不容易。但是如果大家按照文档完成项目过程中有遇到什么问题，可以加入这个群。刚开始可能人少，但我看到都回复的
+3、详细填写地址。
 
-推特：[https://x.com/WaibosangWeb3](https://x.com/WaibosangWeb3)
+## 预定 <a href="#yu-ding" id="yu-ding"></a>
 
-TG：[https://t.me/+8yErYt56B9VjM2U1](https://t.me/+8yErYt56B9VjM2U1)
+页面链接： [https://universalphone.xyz/](https://universalphone.xyz/)
 
-WX：mafoo1314
+1、进入手机官网，点击$99Preorder Now，跳转到一个新的页面。
 
-项目管理文档：[http://suo.im/xmgl](http://suo.im/xmgl)
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415100105.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b7605146&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+2、进入预定购买手机页面，填写信息， 页面左侧输入邮箱，TON钱包地址，（如何获取TON地址请看下文），填写详细地址，支付方式呢，建议是使用信用卡，如果有顾虑的话，可以使用一张没怎么用过的信用卡，邮费有点小贵，所有信息填写完成后，点击支付，出现感谢付款后，查看一下信用卡扣钱了吗，扣钱了就说明购买成功了，等着收货就行了。
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415102527.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7dff1e50&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415152845.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=99eae798&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+## 如何获取TON钱包地址 <a href="#ru-he-huo-qu-ton-qian-bao-di-zhi" id="ru-he-huo-qu-ton-qian-bao-di-zhi"></a>
+
+官网链接： https://web3.bitget.com/en
+
+1、进入Bitget Wallet网站，选择Chrome，点击Chrone Web Store，这边使用的是浏览器的插件钱包，如果是使用手的下载的，点击Android或者iOS查看如何下载，点击添加Brave，下载完成后，会安装到浏览器插件当中。
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415103930.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f4808c47&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+3、安装后，点击插件钱包，首次使用有两种方式，创建或者导入钱包，使用导入钱包，建议使用一个以前有交互过，没有存放太多资产的钱包，或者可以新建一个钱包，专门在bitget上使用，后续也可以用来交互TON的生态。
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415111256.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c2d6c933&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+4、以下是使用一个是已有钱包来进行导入，点击导入，创建密码，点击下一步，根据排序填写入助记词，点击确认，导入成功之后，会有提示，可以把设置为默认钱包关掉，点击知道了。
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415112944.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7694be8c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415113352.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a382a410&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+4、点击插件钱包，在右上角中点击全部网络，弹出的框中搜索栏中输入TON，并点击添加，添加后，建议把TON地址复制下来，并保存起来，这样以后需要地址的时候不用每次打开钱包复制。
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415114435.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8c478ccb&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415114551.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=84b00e08&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
+
+本文仅供学习和交流使用，其内容并不构成任何形式的投资建议。请您始终谨记，必须自行进行详细研究，并自我负责所有相关风险。
