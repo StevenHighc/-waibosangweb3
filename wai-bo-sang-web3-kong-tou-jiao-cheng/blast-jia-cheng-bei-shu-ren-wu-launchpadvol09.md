@@ -4,7 +4,7 @@ description: >-
   发表时间：2024-06-14
 ---
 
-# 📞 BLAST-加成倍数任务launchpad-VOL09
+# 📞 BLAST-加成倍数任务Launchpad-VOL09
 
 \#blast
 
@@ -32,39 +32,39 @@ description: >-
 
 进入blast的空投页面 [https://blast.io/zh-CN/airdrop?tab=Multipliers](https://blast.io/zh-CN/airdrop?tab=Multipliers)
 
-找到“加成倍数”，找到“launchpad“
+找到“加成倍数”，找到“launchpad"
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614152735.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4b28c81&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614152942.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cf1682b1&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614152958.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=56c202f0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614153020.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5590e93&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 进入官方推特后，找到官方网站，点击进入网站
 
 ### **第二步 铸造一个免费NFT**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614153119.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9e8aeda&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614153157.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=92f3296c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614153233.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5e898c5&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 链接钱包，建议使用okx或者metamask 建议使用子钱包进行交互和任务验证，不要使用原本存放了blast资产的钱包。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614153524.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4f57fde2&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614153554.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=18fd1a3b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
 选择一个FREE的，并且没有WHITELIST标志的NFT，点击进去。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614153715.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=33167d28&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614154216.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4a40bb1f&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614154310.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=92834abc&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 点击MINT，弹窗点击mint，弹出钱包，确认。
 
@@ -78,7 +78,9 @@ description: >-
 
 2、检查页面上方，总的加成倍数是否有增加，获得的积分是否有增加
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614155038.png.jpg\&width=768\&dpr=4\&quality=100\&sign=828d1d22\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614154932.png.jpg\&width=768\&dpr=4\&quality=100\&sign=f71b2a2a\&sv=1)
+<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

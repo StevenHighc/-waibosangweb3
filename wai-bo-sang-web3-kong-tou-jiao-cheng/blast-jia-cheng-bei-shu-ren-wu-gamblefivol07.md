@@ -30,11 +30,11 @@ description: >-
 
 ### **第一步 找到官方链接**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614162523.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=83efff01&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614162609.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=165b242e&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614162637.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=792c24c1&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 1、进入blast的空投页面[https://blast.io/zh-CN/airdrop?tab=Multipliers](https://blast.io/zh-CN/airdrop?tab=Multipliers)，找到“加成倍数”，找到“GambleFi“
 
@@ -44,7 +44,7 @@ description: >-
 
 ### **第二步 玩一局YOLO limited的转盘抽奖游戏**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614173019.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1f2354ed&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 1、进入网站，右上角链接钱包
 
@@ -52,13 +52,13 @@ description: >-
 
 3、找到“YOLO Limited”，点击进入游戏
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614173118.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=af2b3291&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614173235.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=689b66d1&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614173313.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b3a9abb8&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614173504.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7d6eb9ea&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
 4、页面右下角，找到“enter NOW”，注意下上方的倒计时，最好在一轮转盘结束之后，下一轮转盘刚开始的时候去操作。
 
@@ -70,15 +70,15 @@ description: >-
 
 8、弹出的钱包中，检查信息，确认无误后，点击“确认”
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614173843.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f05e0c50&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 提示“Entered Round”，就是成功加入了这一轮的转盘游戏。 倒计时结束之后，就会进行开奖，祝你好运。
 
 🚩温馨提醒：Gamble有风险，请勿上头。抱着支付费用完成2x的任务就好了。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614174103.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d9e0ba00&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614174311.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9f4a867b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 截图为转盘结束，公布中奖者。
 
@@ -94,7 +94,7 @@ History中，也可以查询个人参与的记录。
 
 2、检查页面上方，总的加成倍数是否有增加，获得的积分是否有增加
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614174241.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5fc04669&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

@@ -36,11 +36,11 @@ description: >-
 
 ### **第一步 找到官方链接**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180023.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e2409f10&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180100.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8d9643a0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180124.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bee6f85e&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 1、进入blast的空投页面[https://blast.io/zh-CN/airdrop?tab=Multipliers](https://blast.io/zh-CN/airdrop?tab=Multipliers)，找到“加成倍数”，找到“GameFi“
 
@@ -50,29 +50,29 @@ description: >-
 
 ### **第二步 注册游戏账号，充值**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180539.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=79d8c5c0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180636.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2895be20&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180803.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=44aec9ae&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180830.png.jpg&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=5c7f11fc&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180855.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=adf89163&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 使用推特登录，授权推特。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614180941.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8b667de9&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 成功登录之后，页面会持续加载，请耐心等候，这个时候是网站正在为你的账号，创建一个`新内置钱包`
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614181021.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4cabb7d9&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614181210.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=901530d7&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614181317.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3e28ea59&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 1、稍等一会，会弹出一个签名信息。这个网站为您的账号创建一个`新内置钱包`，弹出来的签名信息，也是使用这个`新内置钱包`（而非插件钱包的okx或者metamask），点击“Sign and continue”
 
@@ -88,11 +88,11 @@ description: >-
 
 接下来，就使用其他钱包，给`新内置钱包`转入0.01ETH吧。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614195514.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=678e2865&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614195638.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f6c8c888&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614195823.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=aedde6fe&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 1、充值到账之后，点击”REFRESH BALANCE“，刷新余额
 
@@ -104,7 +104,15 @@ description: >-
 
 5、有添加钱包的话，就点击”NEXT“进入下一步。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614195902.png.jpg\&width=768\&dpr=4\&quality=100\&sign=ac28ac40\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614195934.png.jpg\&width=768\&dpr=4\&quality=100\&sign=424d34a7\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614200017.png.jpg\&width=768\&dpr=4\&quality=100\&sign=ccf987ec\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614200107.png.jpg\&width=768\&dpr=4\&quality=100\&sign=69be0bce\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614200214.png.jpg\&width=768\&dpr=4\&quality=100\&sign=9c4ed995\&sv=1)
+<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 6、点击“CONFIRM”，确认
 
@@ -118,13 +126,13 @@ description: >-
 
 ### **第三步 导出新内置钱包，验证任务**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614200435.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a28515e8&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614200459.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1578337e&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614200718.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9e851b0c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614201013.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d8492b5f&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 1、完成之后，页面中中间部分的右上方，可以找到“Export Wallet”，点击
 
@@ -140,15 +148,13 @@ description: >-
 
 
 
-
-
 过几分钟之后刷新，检查是否验证通过：
 
 1、加成倍数中的“GameFi”高亮，并且提示已得到2x
 
 2、检查页面上方，总的加成倍数是否有增加，获得的积分是否有增加
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240614201225.png.jpg\&width=768\&dpr=4\&quality=100\&sign=261a708a\&sv=1)
+<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
