@@ -1,8 +1,15 @@
 # Table of contents
 
+## TON生态
+
+* [🥎 TON手机第一期购买](README.md)
+* [🏉 TON手机第二期购买](ton-sheng-tai/ton-shou-ji-di-er-qi-gou-mai.md)
+* [🐹 Hamster Kombat](ton-sheng-tai/hamster-kombat.md)
+* [🅱️ Blum](ton-sheng-tai/blum.md)
+
 ## 🚀 歪脖桑Web3空投教程
 
-* [24.6之前的项目教程](README.md)
+* [24.6之前的项目教程](<README (1).md>)
 * [🐻 \[V2\]\[0撸\]Berachain-12min-以太L1公链测试网交互教程-详细教程文档http://suo.im/7YA5Z](wai-bo-sang-web3-kong-tou-jiao-cheng/v20-lu-berachain12min-yi-tai-l1-gong-lian-ce-shi-wang-jiao-hu-jiao-cheng-xiang-xi-jiao-cheng-wen-dan.md)
 * [🪅 \[0撸\]Avalon-早期测试网元宇宙融资2300万交互积分教程-详细教程文档](wai-bo-sang-web3-kong-tou-jiao-cheng/0-lu-avalon-zao-qi-ce-shi-wang-yuan-yu-zhou-rong-zi-2300-wan-jiao-hu-ji-fen-jiao-cheng-xiang-xi-jiao.md)
 * [🤭 \[0撸\]Analog-GMP网关教程](wai-bo-sang-web3-kong-tou-jiao-cheng/0-lu-analoggmp-wang-guan-jiao-cheng.md)
@@ -40,10 +47,3 @@
 * [🎞️ Farcaster-Warpcas积分](wai-bo-sang-web3-kong-tou-jiao-cheng/farcasterwarpcas-ji-fen.md)
 * [👽 Alienx-外星人测试网交互](wai-bo-sang-web3-kong-tou-jiao-cheng/alienx-wai-xing-ren-ce-shi-wang-jiao-hu.md)
 * [👼 Babylon测试网质押](wai-bo-sang-web3-kong-tou-jiao-cheng/babylon-ce-shi-wang-zhi-ya.md)
-
-## TON生态
-
-* [🥎 TON手机第一期购买](ton-sheng-tai/ton-shou-ji-di-yi-qi-gou-mai.md)
-* [🏉 TON手机第二期购买](ton-sheng-tai/ton-shou-ji-di-er-qi-gou-mai.md)
-* [🐹 Hamster Kombat](ton-sheng-tai/hamster-kombat.md)
-* [🅱️ Blum](ton-sheng-tai/blum.md)

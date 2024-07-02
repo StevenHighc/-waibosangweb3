@@ -4,7 +4,7 @@ description: >-
   发表时间：2024-06-20
 ---
 
-# Blum
+# 🅱️ Blum
 
 \#TON生态 #挖矿 #游戏
 
