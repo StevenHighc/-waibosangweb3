@@ -52,7 +52,7 @@ Hamster Kombat是电报上零撸项目，推出不到一个月，X官方账号�
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240612165117.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=509a0a13&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、每天双击Earn per tap会出现红色圈仓鼠，然后敲打摩斯密码输入单词，解锁100W金币。每日的代码可到官方推特上查找，然后根据字母敲打出来，莫斯密码图直接放下方，•就是短按，—就是长按
 
@@ -76,7 +76,7 @@ Hamster Kombat是电报上零撸项目，推出不到一个月，X官方账号�
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240613151516.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cec08f9c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **03、签到**
 

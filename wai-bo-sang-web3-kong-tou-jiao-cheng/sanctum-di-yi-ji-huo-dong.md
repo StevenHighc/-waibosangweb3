@@ -38,15 +38,15 @@ Sanctum 是基于 Solana 构建的新原语，为流动性质押提供动力，�
 
 1、进入页面，使用solana钱包链接，建议是使用phantom。
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、邀请码系统会自动识别，点击Join now ,接着点击yes，钱包确认。
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 02、质押
 
@@ -54,15 +54,15 @@ Sanctum 是基于 Solana 构建的新原语，为流动性质押提供动力，�
 
 ❗❗注意：至少要 0.12个 SOL 才可以激活宠物，资产不够，宠物会进入休眠状态，那就无法赚取积分。
 
-<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、质押完毕后，耐心等待几分钟，“宠物”就激活了，它会自动帮你生产积分，积分在右上角可以看到。
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、点击wonderland，点击右上角星星图标，弹出的窗口中可以查看获得的宠物数量，再往下划，就可以看到所获得宠物赚取积分。
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
