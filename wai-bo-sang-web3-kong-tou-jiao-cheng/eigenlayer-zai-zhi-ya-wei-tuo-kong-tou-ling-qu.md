@@ -32,7 +32,7 @@ description: >-
 
 ### **01 绕开网站限制**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240520180738.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1db56069&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 1.先打开一个空白网页
 
@@ -40,15 +40,15 @@ description: >-
 
 3.快捷打不开的话，请打开浏览器的菜单，找到“工具”或者“更多工具”，从中找到“开发者工具”
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F2AJKA7CnUx.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=beebd22b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F7fP8d0Wogn.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=87362e3f&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
 
 1.打开领取页面：[https://claims.eigenfoundation.org/](https://claims.eigenfoundation.org/),加载完成之后，在开发者工具中，找到“网络”
 
 2.如果没有找到“网络”（network），点击“+”或者“>>”，应该能找到
 
 3.项目中，找到“is-block”
+
+<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 4.右键点击之后，弹出的菜单中，点击“屏蔽请求网址”后，刷新页面，即可绕开网站的限制。
 
@@ -66,21 +66,21 @@ description: >-
 
 建议，多个交互过的钱包都查一下。 有一些钱包有参与过pendle、swell、etherfi等项目，可能会有eigenlayer的积分，很有可能获得保底的空投（100个EIGEN）
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fmsedge_jZpLwntPla.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=23a1e9fb&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fbrave_ahFulYv9Rb.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7a624cc6&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
 1.点击“CLAIM NOW”，发送一笔ETH主网上的交易，即可完成领取
 
 ### **03 存入EIGEN**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240520181758.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=abe3fd4&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 
 1.进入eigenlayer app页面：[https://app.eigenlayer.xyz/](https://app.eigenlayer.xyz/)，点击“Restake”
 
 2.点击“EIGEN”
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240520181859.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=178cfab6&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
 3.点击“deposit”
 
@@ -90,7 +90,7 @@ description: >-
 
 ### **04 操作委托**
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fbrave_a9NsDSzEfU.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5fbecc58&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 1.进入eigenlayer app页面：[https://app.eigenlayer.xyz/](https://app.eigenlayer.xyz/)
 
@@ -100,7 +100,7 @@ description: >-
 
 4.这边建议Altlayer，您也可以选择按照三个标准排序之后，排名都比较靠前的其他Operator（操作者）
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fbrave_oiCljeJReR.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cd0ed487&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
 
 1.进入操作者的详细页面
 

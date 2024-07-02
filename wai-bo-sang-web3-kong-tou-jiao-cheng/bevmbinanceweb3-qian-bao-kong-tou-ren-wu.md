@@ -46,33 +46,33 @@ BEVM是 Binance 扶持的第一个 BTC L2 头部项目。
 
 1、进入页面，扫码链接钱包，进入页面，往下滑找到任务所在，点击箭头。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240417151502.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4d6b2935&#x26;sv=1" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240417151343.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=adcbe2be&#x26;sv=1" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
 2、跳转到跨链页面，先链接钱包，一个EVM网络 ，一个BTC网络，点击第三方跨链桥，选择OmniSwap。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240417152537.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=10b7cfd4&#x26;sv=1" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 3、跳转到跨链页面，链接钱包，选择Arbitrum上的ETH与BEVM上的BTC，输入数量，点击交易，在弹窗中点击确认交换，钱包确认。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fc5b3000ee743a168883a6a3a03005b3.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2c65f06e&#x26;sv=1" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fe6e8fae5b01f828b9e9510616398446.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=440ed9a7&#x26;sv=1" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F42e00cfb17845ccdc29c26868ec9601.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fb1c25d&#x26;sv=1" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
 
 ### **第二步建立Satoshi协议**
 
 1、选择任务二，点击"GET 100 SHARES"这个箭头。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240417155233.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=95042ea&#x26;sv=1" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
 2、进入Satoshi协议页面，链接钱包，点击Create Position，在弹窗中输入最低金额0.0003，借入最低SAT10个，打勾，点击Approved，钱包确认，点击Create Position，钱包确认。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fa31f835cb817dcbe0fa3945546f61c5.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c42800cd&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fbe6716bee9b3e4ac29e64512b1090ed.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8abb6410&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 任务验证成功之后，记得要进行平仓，详见下文。
 
@@ -80,7 +80,7 @@ BEVM是 Binance 扶持的第一个 BTC L2 头部项目。
 
 1、点击“GET 10 SHARES”并钱包确认，它将被自动验证。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240417161742.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=274b44c4&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 **第四步如何平仓**
 
@@ -88,15 +88,15 @@ BEVM是 Binance 扶持的第一个 BTC L2 头部项目。
 
 1、进入跨链页面，链接钱包，将BEVM网络上的BTC兑换成SAT。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F486ded5b0bac3fe0563b3a379c315f1.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=edbacad3&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 2、回到Satoshi协议页面，点击Close，页面上点击Approve，钱包确认后，在页面下方点击Close，钱包确认，即可平仓。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Ffb6eb32a25cfb31a0b030fa6f14ed2f.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fc97ed6d&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2Fbbff417a565ce8cf2ade5a4ca3a05f7.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7ffa790b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F8a1bacffd9d344ff43ebddc239e80a0.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=501d3a2c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

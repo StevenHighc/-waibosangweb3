@@ -38,61 +38,61 @@ ARB链上的一款NFT游戏，是第一个不断成长的生活模拟角色扮�
 
 1、进入页面，输入邮箱，官方会通过邮件方式进行验证并访问。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424153447.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8cc998f5&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424153628.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f623c44a&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 2、跳转到页面，同意条款，点击 I Agree，设置用户名，点击EnterHub。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424154115.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=52fd8cc4&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424154204.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=73ae52b9&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
 ### **02社交任务**
 
-1、Complete Quests，进入页面，关联X账号，回到页面点击Claimable，进入页面点击Claim Reward,，即可获取分数，关联X账后，就都是一些简单的关注合作的项目方的X官方账号与点赞，转推而已了。
+1、Complete Quests，进入页面，关联X账号，回到页面点击Claimable，进入页面点击Claim Reward,，即可获取分数，关联X账后，就都是一些简单的关注合作的项目方的X官方账号与点赞，转推。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424154331.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8886c514&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424154805.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b4008a52&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424154856.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7805f3f2&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424154941.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c7ad560f&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424155024.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c0fc2aea&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424155045.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8d3d68a1&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
 
 2、Discord授权后，既可返回验证，接受邀请后，并在里面发言，即可返回验证。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424160039.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e74f3240&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424160026.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=628c8e0c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424160346.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ba3f301&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424160225.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f8f3a0d1&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
 
 3、跳转到youtobe视频，并观看，看完返回验证即可。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424160604.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9fc7e282&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424160648.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=72b20f32&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
 4、至于关注Tiktok并评论呢，这边是直接跳到页面之后，回来刷新后验证就过了。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424160827.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=12bc6c01&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424160916.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3b93c8e0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
 ### **03 邀请好友**
 
 1、Refer\&Earn，进入页面，复制链接，或者发推，邀请好友。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424161020.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d1c963fd&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240424161041.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c1f329d2&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

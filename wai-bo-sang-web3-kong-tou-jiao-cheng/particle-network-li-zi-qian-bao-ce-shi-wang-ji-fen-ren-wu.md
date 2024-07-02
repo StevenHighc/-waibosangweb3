@@ -38,35 +38,31 @@ Particle Network 是一种基于 Cosmos SDK 的模块化第一层 (L1) 区块链
 
 1、进入页面，点击邮箱，输入邮箱，点击发送验证码，输入验证码，点击确认。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509173810.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2a581439&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
 
-<div align="center" data-full-width="false">
-
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509173837.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8b19450&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="center">
-
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509173907.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4a787360&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+![](<../.gitbook/assets/image (431).png>)![](<../.gitbook/assets/image (432).png>)
 
 2、使用链接，邀请会自动识别，点击ACCEPT THIS INVITE，
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509174156.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3411b783&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (433).png" alt=""><figcaption></figcaption></figure>
 
 3、关联推特账号，关注官方推特。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509174325.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a07e901b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
 4、授权Discord，加入服务器。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509174512.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7cf9311f&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
 ### **02、任务**
 
 1、页面点击Universal Account ，出现一个粒子钱包地址，可以复制保存下来。
+
+
+
+
+
+
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509174622.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b6490711&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 

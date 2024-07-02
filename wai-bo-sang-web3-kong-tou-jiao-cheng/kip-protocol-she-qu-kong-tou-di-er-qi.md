@@ -42,25 +42,25 @@ KIP Protocol 是一个专注于 AI 的 Web3 底层协议，也是世界上第一
 
 1、进入页面，关联推特。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240607162358.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e441c82d&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240607163656.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=205f5201&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
 
 2、进入页面，点击左上角，跳转授权DC
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240607172801.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=11f6cdc5&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240607172830.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e8b25939&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
 
 3、链接钱包。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240607172923.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=84132898&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
 ### **02、互动**
 
 1、页面左侧的POWER POSTS栏为官方推文互动栏，每天在这里查看最新官推消息，点进去互动，获得积分。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240612142401.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bc6069e8&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
 ### **03、发推**
 
@@ -68,13 +68,13 @@ KIP Protocol 是一个专注于 AI 的 Web3 底层协议，也是世界上第一
 
 **提示**：如果你想获取更多的积分，那你的推特至少要有30个粉丝，并带有 @ KIPprotocol 和$KIP标签的推文，字数不能少于30个，有小号的可以互赞互刷。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240612142637.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a881de31&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 ### **04、社交**
 
 1、完成社交任务，获取分数，点赞，转推，访问页面，进入DC，并完成服务器的验证，页面上DC任务验证时间有点长。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240612143128.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fdc8a149&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
 
 ### **05、积分加成**
 
@@ -84,7 +84,7 @@ KIP Protocol 是一个专注于 AI 的 Web3 底层协议，也是世界上第一
     持有任一社区NFT都可获得积分加成（看个人意愿）
 * 加成方式三：邀请积分加成，邀请人除了可以获得被邀请人积分的8%返佣奖励外还有其他加成，比如成功邀请2人可获得5%的积分加成，邀请10人为10%，邀请20人为20%以此类推，被邀请人成功填写邀请人的推荐码可直接获得200积分
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240612143352.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c6f72fa0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

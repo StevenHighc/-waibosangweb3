@@ -36,35 +36,39 @@
 
 1、打开binance APP，点击资金。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509150952.png.jpg\&width=768\&dpr=4\&quality=100\&sign=3290cfd9\&sv=1)
+<figure><img src="../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
 
 2、点击web3，点击创建钱包，点击立即备份，创建恢复密码，再次输入恢复密码，点击继续，备份之后，点击好的，并在页面上输入恢复密码，点击继续，保存二维码。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509151002.png.jpg\&width=768\&dpr=4\&quality=100\&sign=59efc3dc\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509151031.png.jpg\&width=768\&dpr=4\&quality=100\&sign=40e281d2\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509151116.png.jpg\&width=768\&dpr=4\&quality=100\&sign=70ef85fa\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509151143.png.jpg\&width=768\&dpr=4\&quality=100\&sign=68dfd808\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509151206.png.jpg\&width=768\&dpr=4\&quality=100\&sign=ba95db26\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509151232.png.jpg\&width=768\&dpr=4\&quality=100\&sign=f013d7b\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509151257.png.jpg\&width=768\&dpr=4\&quality=100\&sign=41604a60\&sv=1)
+![](<../.gitbook/assets/image (389).png>)![](<../.gitbook/assets/image (390).png>)![](<../.gitbook/assets/image (391).png>)![](<../.gitbook/assets/image (392).png>)![](<../.gitbook/assets/image (393).png>)![](<../.gitbook/assets/image (394).png>)![](<../.gitbook/assets/image (395).png>)
 
 ### **02、兑换**
 
 1、点击web3，点击划转，选择币种，选择网络，输入数量，点击提现，确认无误之后，点击确认。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509114748.png.jpg\&width=768\&dpr=4\&quality=100\&sign=cde29912\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509114943.png.jpg\&width=768\&dpr=4\&quality=100\&sign=6f1c7b83\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509115113.png.jpg\&width=768\&dpr=4\&quality=100\&sign=5e7aa08b\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509115205.png.jpg\&width=768\&dpr=4\&quality=100\&sign=c95fd30d\&sv=1)
+![](<../.gitbook/assets/image (396).png>)![](<../.gitbook/assets/image (397).png>)![](<../.gitbook/assets/image (398).png>)![](<../.gitbook/assets/image (399).png>)
 
 ### **03、交互任务**
 
 1、点击右上角binance图标，进入页面，点击Megadrop。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509152951.png.jpg\&width=768\&dpr=4\&quality=100\&sign=8e712ea0\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509153417.png.jpg\&width=768\&dpr=4\&quality=100\&sign=f3561e9c\&sv=1)
+![](<../.gitbook/assets/image (400).png>)![](<../.gitbook/assets/image (401).png>)
 
 2、如果要进行申购，选择120天，可以多加一些分，随时可以取出来。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509153600.png.jpg\&width=768\&dpr=4\&quality=100\&sign=cb2685aa\&sv=1)
+![](<../.gitbook/assets/image (402).png>)
+
+
 
 3、不想申购直接点击做任务，做完任务获取1000分。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509153826.png.jpg\&width=768\&dpr=4\&quality=100\&sign=bbe08e30\&sv=1)
+![](<../.gitbook/assets/image (403).png>)
+
+
 
 4、点击立即开始，链接钱包，点击Approve，点击审批后，回到前页面点击验证，验证通过即可获取分数。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509154803.png.jpg\&width=768\&dpr=4\&quality=100\&sign=8e15ec1e\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509154819.png.jpg\&width=768\&dpr=4\&quality=100\&sign=b8156863\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F408ee7b91aee7228067425332623242.png.jpg\&width=768\&dpr=4\&quality=100\&sign=7889fa63\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F31677f7d5133cdd6b6da6335d84618b.png.jpg\&width=768\&dpr=4\&quality=100\&sign=ce0d655e\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2F9aaf15e1a1121f8e899fcbf5395c814.png.jpg\&width=768\&dpr=4\&quality=100\&sign=e29d038\&sv=1)
+![](<../.gitbook/assets/image (404).png>)![](<../.gitbook/assets/image (406).png>)![](<../.gitbook/assets/image (407).png>)![](<../.gitbook/assets/image (408).png>)![](<../.gitbook/assets/image (409).png>)
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
