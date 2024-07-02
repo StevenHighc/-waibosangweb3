@@ -9,7 +9,7 @@
 * [🚛 CARV-无限活动第一期任务指引BIGA Arcade](wai-bo-sang-web3-kong-tou-jiao-cheng/page1.md)
 * [🦸‍♀️ CARV-无限活动第二期任务指引InfiniGods-Nyan Heroes](wai-bo-sang-web3-kong-tou-jiao-cheng/carv-wu-xian-huo-dong-di-er-qi-ren-wu-zhi-yin-infinigodsnyan-heroes.md)
 * [😉 CARV-无限活动第二期任务指引InfiniGods-King Of Destiny](wai-bo-sang-web3-kong-tou-jiao-cheng/carv-wu-xian-huo-dong-di-er-qi-ren-wu-zhi-yin-infinigodsking-of-destiny.md)
-* [🐦 \[投研\]StakeStone-Vol.01](wai-bo-sang-web3-kong-tou-jiao-cheng/tou-yan-stakestonevol.01.md)
+* [🐦 StakeStone-Vol.01\[投研\]](wai-bo-sang-web3-kong-tou-jiao-cheng/stakestonevol.01-tou-yan.md)
 * [🏹 BLAST-BEBOP-交易可获赠黄金积分](wai-bo-sang-web3-kong-tou-jiao-cheng/blastbebop-jiao-yi-ke-huo-zeng-huang-jin-ji-fen.md)
 * [🥸 BLAST-第二期加成倍数任务](wai-bo-sang-web3-kong-tou-jiao-cheng/blast-di-er-qi-jia-cheng-bei-shu-ren-wu.md)
 * [🚛 BLAST-加成倍数任务GambleFi-VOL07](wai-bo-sang-web3-kong-tou-jiao-cheng/blast-jia-cheng-bei-shu-ren-wu-gamblefivol07.md)

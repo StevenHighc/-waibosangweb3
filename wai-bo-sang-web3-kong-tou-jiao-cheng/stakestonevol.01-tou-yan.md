@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🐦 \[投研]StakeStone-Vol.01
+# 🐦 StakeStone-Vol.01\[投研]
 
 ## 基本资料 <a href="#ji-ben-zi-liao" id="ji-ben-zi-liao"></a>
 
@@ -68,7 +68,7 @@ STONE不仅是一个多链代币，这意味着它可以轻松地在不同的区
 
 ## TVL <a href="#tvl" id="tvl"></a>
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331214845.png.jpg\&width=768\&dpr=4\&quality=100\&sign=7ec84ada\&sv=1)
+<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 截至2024年3月31日21:48:54，StakeStone的总锁定价值（TVL）为25万个ETH，折合约9.23亿美元。
 
@@ -77,13 +77,13 @@ STONE不仅是一个多链代币，这意味着它可以轻松地在不同的区
 1. **触发因素**：StakeStone开放了Manta Network的stone解锁跨链功能。Manta社区对Manta Network进行的空投活动存在分歧，因此选择了以行动表态，将原先通过StakeStone质押到Manta Network的ETH资产解锁并跨链离开Manta生态系统。
 2. **链上数据解读**：我们发现，从2024年3月26日到29日，大约有4294笔交易记录的资金流出，流出的资金量从1个ETH到几百个ETH，甚至高达3000个ETH。也就是说，大量用户选择主动离开Manta Network。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331215751.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=39834779&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 1. **影响分析**：Manta的TVL下降幅度更大，推测StakeStone的下降更多地受到了Manta的影响。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331220053.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=81c88dc0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 尽管StakeStone的TVL遭遇了大幅下滑，但其仍然保持着25万个ETH的TVL，这与Swell（29万ETH）和Frax Ether（27万ETH）的TVL处于相同的数量级。
 
