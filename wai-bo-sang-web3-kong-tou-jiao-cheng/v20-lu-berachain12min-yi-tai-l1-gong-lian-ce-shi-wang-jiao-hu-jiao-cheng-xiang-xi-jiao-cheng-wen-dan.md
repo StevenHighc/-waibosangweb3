@@ -4,8 +4,6 @@ description: 交互内容与v1版本基本一样，只是链接更换了v2的。
 
 # 🐻 \[V2]\[0撸]Berachain-12min-以太L1公链测试网交互教程-详细教程文档http://suo.im/7YA5Z
 
-
-
 {% hint style="info" %}
 1. 本文内容具有时效性，请注意，文中所提到的资讯、活动及信息可能已经发生变化，与当前实际情况有所不同。我们建议您在做出任何决策之前，始终进行自主研究和验证。
 2. 关注<mark style="background-color:yellow;">@waibosangweb3</mark> 关注推特获得更多保姆级优质空投教程\~
