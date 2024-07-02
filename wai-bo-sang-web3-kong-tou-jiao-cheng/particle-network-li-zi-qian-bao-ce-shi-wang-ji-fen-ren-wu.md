@@ -58,19 +58,13 @@ Particle Network 是一种基于 Cosmos SDK 的模块化第一层 (L1) 区块链
 
 1、页面点击Universal Account ，出现一个粒子钱包地址，可以复制保存下来。
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509174622.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b6490711&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240509175034.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=411a1769&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2、进入页面，点击右上角，这里面是账户地址与燃气费用，点击UNIVERSAL ACCOUNT。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240510110249.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=19685a70&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3、存入Universal Gas，一共有两种办法。
 
@@ -78,15 +72,15 @@ Particle Network 是一种基于 Cosmos SDK 的模块化第一层 (L1) 区块链
 
 第二种使用外部的EVM钱包，连接插件钱包之后，操作充值
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240510104603.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5d5bf837&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 4、如果没有资产，可从页面中链接的公共水龙头来免费获取它们。（建议使用外部的EVM钱包进行领水，再转入到粒子钱包当中，记得每天都要上去领一下，以防后续有需要没有水可以领）
 
 ❗❗注意：这里面只有BNB是不需要钱包存有资产就可以进行领取的，但是会经常领不到，其它是需要钱包当中有一定资产才可以领取的，比如ARBITRUM SEPOLIA FAUCET，该龙头要求所使用的钱包地址上至少有 0.001 ETH 的主网余额。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240508161101.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a83d7eb4&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240510150643.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=70ae7ce6&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1. ETHEREUM SEPOLIA
    1. alchemy(需要主网余额大于0.001ETH) ETHEREUM SEPOLIA,ETH, [https://www.alchemy.com/faucets/ethereum-sepolia](https://www.alchemy.com/faucets/ethereum-sepolia)
@@ -104,15 +98,15 @@ Particle Network 是一种基于 Cosmos SDK 的模块化第一层 (L1) 区块链
 
 点击Alchemy领水网站[https://www.alchemy.com/faucets/ethereum-sepolia](https://www.alchemy.com/faucets/ethereum-sepolia)使用谷歌账号直接登录，输入地址，点击真人验证，点击Send Me ETH。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240510161859.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2085d089&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 5、每天签到，点击CHECK按钮即可发送交易，需要保持累计签到的状态，连续签到28天以上，可以得到500分，中间断签，就得重头累计连续签到天数。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240510152835.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bad5635&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 6、TASK3，每天使用粒子钱包，在不同的测试网络中，发送交易，使用USDG扣取gas。一笔50分，上限是一天100笔。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240510163826.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ea4d2625&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

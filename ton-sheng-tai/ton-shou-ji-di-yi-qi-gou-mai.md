@@ -32,7 +32,7 @@ TON手机可以参考solana手机，solana手机已经获得solana生态上的�
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415102527.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7dff1e50&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415152845.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=99eae798&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ TON手机可以参考solana手机，solana手机已经获得solana生态上的�
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415103930.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f4808c47&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、安装后，点击插件钱包，首次使用有两种方式，创建或者导入钱包，使用导入钱包，建议使用一个以前有交互过，没有存放太多资产的钱包，或者可以新建一个钱包，专门在bitget上使用，后续也可以用来交互TON的生态。
 
@@ -54,11 +54,11 @@ TON手机可以参考solana手机，solana手机已经获得solana生态上的�
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415112944.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7694be8c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415113352.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a382a410&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4、点击插件钱包，在右上角中点击全部网络，弹出的框中搜索栏中输入TON，并点击添加，添加后，建议把TON地址复制下来，并保存起来，这样以后需要地址的时候不用每次打开钱包复制。
 

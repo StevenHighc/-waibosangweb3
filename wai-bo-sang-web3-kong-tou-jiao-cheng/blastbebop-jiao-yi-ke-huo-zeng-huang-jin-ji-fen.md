@@ -29,13 +29,13 @@ bebop官网：[https://bebop.xyz/trade?network=blast](https://bebop.xyz/trade?ne
 
 ### **连接钱包，切换网络**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 打开网址，链接钱包。如果没有自动跳转到blast网络，可以在右上角点击切换网络到blast。
 
 ### **Wrap WETH**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 大部分的交易兑，是使用WETH的，因此建议在操作之前，先将ETH，wrap成WETH。
 
@@ -43,29 +43,29 @@ bebop官网：[https://bebop.xyz/trade?network=blast](https://bebop.xyz/trade?ne
 2. 点击
 3. 选择Rebasing WETH
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. 输入数量
 5. 点击Wrap，钱包中确认。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **兑换成其他代币（以EZETH为例）**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 选择WETH
 2. 选择EZETH
 3. 输入数量
 4. 点击“Grant permissions”，授权合约扣取WETH
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. 提高授权上限值
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. 编辑授权额度
 7. 输入授权数量，建议输入本次交易的数量
@@ -73,11 +73,11 @@ bebop官网：[https://bebop.xyz/trade?network=blast](https://bebop.xyz/trade?ne
 9. 签名允许支付
 10. 确认
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 签名确认之后，后续就可以使用无gas交易了
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 选择WETH
 2. 选择EZETH
