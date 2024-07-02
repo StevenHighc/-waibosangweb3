@@ -44,7 +44,7 @@ StakeStone通过一个创新的机制——优化组合和分配提案（OPAP）
 
 StakeStone的官方文档[1](https://docs.stakestone.io/stakestone)
 
-### **简化业务概念**
+## **简化业务概念**
 
 对于持有ETH的人来说，市场上有许多不同的ETH流动性质押代币和DeFi协议，选择和使用它们可能既复杂又耗时。StakeStone项目旨在简化这一过程，通过策略池选择优质的流动性质押代币和DeFi协议，旨在在保障资金安全的同时，为用户获取更多的收益。
 
@@ -83,7 +83,7 @@ STONE不仅是一个多链代币，这意味着它可以轻松地在不同的区
 
 1. **影响分析**：Manta的TVL下降幅度更大，推测StakeStone的下降更多地受到了Manta的影响。
 
-<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 尽管StakeStone的TVL遭遇了大幅下滑，但其仍然保持着25万个ETH的TVL，这与Swell（29万ETH）和Frax Ether（27万ETH）的TVL处于相同的数量级。
 
@@ -119,13 +119,13 @@ STONE不仅是一个多链代币，这意味着它可以轻松地在不同的区
 
 mode积分是有op超级链之一的mode二层网络项目，正在进行中的跨链资产积分激励活动。目前资产已支持STONE，并且跨链STONE可获得两倍积分加成。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331221829.png.jpg\&width=768\&dpr=4\&quality=100\&sign=8606dcdc\&sv=1)
+<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 ### **BOB FUSION**
 
 BOB FUSION是build\_on\_bob正在进行中的资产跨链积分活动。该活动中，目前已兼容STONE，并且跨链资产使用STONE将可以获得1.3倍的分数加成。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331221628.png.jpg\&width=768\&dpr=4\&quality=100\&sign=4de2f7fb\&sv=1)
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 ## 空投活动 <a href="#kong-tou-huo-dong" id="kong-tou-huo-dong"></a>
 
@@ -165,23 +165,23 @@ Copy
 
 活动链接：
 
-[https://carnival.stakestone.io/r?code=B7134](https://carnival.stakestone.io/r?code=B7134)
+{% embed url="https://carnival.stakestone.io/r?code=B7134" %}
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331222916.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=315b55ca&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 打开页面，连接钱包
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331222946.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=97bb3f9&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 完成推特绑定、转推推文和验证
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223053.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ba0c35ad&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 进入到活动页面，右下角可以查看已存入锁定的资产进度。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223215.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=75071a51&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 1. 点击LOCK，进行下一步。
 2. 选择ETH
@@ -189,11 +189,11 @@ Copy
 4. 点击“LOCK ETH”
 5. 确认发送交易
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223400.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=390d525&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 等待交易确认之后，则完成LOCK操作
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240331223553.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6f5e01f0&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 页面中可以查看自己lock的资产情况 右下角也可以查看到活动已存入的资产为19766个ETH，进度接近10%。
 
