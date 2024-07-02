@@ -18,7 +18,7 @@ description: >-
 
 ## 推荐理由 <a href="#tui-jian-li-you" id="tui-jian-li-you"></a>
 
-第一期有免单，第二期免单活动进行中，有空投。
+第一期有免单，第二期免单活动进行中，有空投。特别说明：Oyster Labs 是 Ton foundation与hashkey合作孵化营第一批成員 目前还不是官方手机，正在争取。
 
 ## 简要操作步骤 <a href="#jian-yao-cao-zuo-bu-zhou" id="jian-yao-cao-zuo-bu-zhou"></a>
 
