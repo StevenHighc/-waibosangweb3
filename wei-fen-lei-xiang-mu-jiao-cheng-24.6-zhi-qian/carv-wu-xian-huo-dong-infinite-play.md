@@ -22,7 +22,7 @@ Infinite Play 结合了质押、投票、游戏和赚钱，让您有能力塑造
 [carv-wu-xian-huo-dong-di-er-qi-ren-wu-zhi-yin-infinigodsking-of-destiny.md](carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-er-qi-ren-wu-zhi-yin-infinigodsking-of-destiny.md)
 {% endcontent-ref %}
 
-{% content-ref url="carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-san-qi-ren-wu.md" %}
-[carv-wu-xian-huo-dong-di-san-qi-ren-wu.md](carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-san-qi-ren-wu.md)
+{% content-ref url="carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-san-qi-ren-wu-10-yi-soul.md" %}
+[carv-wu-xian-huo-dong-di-san-qi-ren-wu-10-yi-soul.md](carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-san-qi-ren-wu-10-yi-soul.md)
 {% endcontent-ref %}
 
