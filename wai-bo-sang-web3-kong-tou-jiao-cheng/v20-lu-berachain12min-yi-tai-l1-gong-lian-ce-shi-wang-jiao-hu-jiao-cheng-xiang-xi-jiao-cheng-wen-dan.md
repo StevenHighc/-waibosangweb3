@@ -72,11 +72,11 @@ Berachain 是一条基于流动性证明共识构建的高性能 EVM 兼容公�
        <figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 9.  质押 $BGT（获得BGT需要时间等待，没有则先跳过该步骤）[https://bartio.station.berachain.com/gauge](https://bartio.station.berachain.com/gauge)
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 10. 投票治理**（获得BGT需要时间等待，没有则先跳过该步骤）。**[**https://bartio.station.berachain.com/delegate**](https://bartio.station.berachain.com/delegate)\
     **选择任意一个active状态的进行投票**
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
