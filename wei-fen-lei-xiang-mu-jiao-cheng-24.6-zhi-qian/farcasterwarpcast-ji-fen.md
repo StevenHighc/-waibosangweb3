@@ -8,7 +8,7 @@ description: >-
 
 \#社交软件 #钱包
 
-推特教程：
+推特教程：[https://x.com/WaibosangWeb3/status/1793463215004999917](https://x.com/WaibosangWeb3/status/1793463215004999917)
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 
