@@ -50,17 +50,17 @@ Hamster Kombat是电报上零撸项目，推出不到一个月，X官方账号�
 
 1、使用手机TG打开，点击play，进入页面
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240612165117.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=509a0a13&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure>
 
-2、每天双击Earn per tap会出现红色圈仓鼠，然后敲打摩斯密码输入单词，解锁100W金币。每日的代码可到官方推特上查找，然后根据字母敲打出来，莫斯密码图直接放下方，•就是短按，—就是长按
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240617154455.png.jpg\&width=768\&dpr=4\&quality=100\&sign=56990c45\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240612172548.png.jpg\&width=768\&dpr=4\&quality=100\&sign=9ac9ac8b\&sv=1)
+
+2、每天双击Earn per tap会出现红色圈仓鼠，然后敲打摩斯密码输入单词，解锁100W金币。每日的代码可到官方推特上查找，然后根据字母敲打出来，莫斯密码图直接放下方，•就是短按，—就是长按![](<../../.gitbook/assets/image (439).png>)![](<../../.gitbook/assets/image (440).png>)
 
 ❗❗注意：PPH（Profit per Hour）的值比Earn per tap重要，这个是类似于挖矿，每小时可以收一次，三小时挖满，官方也说过最重要的是这个PPH。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240618103740.png.jpg&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=a5bd7cb&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
 ### **02、卡片**
 
@@ -68,41 +68,35 @@ Hamster Kombat是电报上零撸项目，推出不到一个月，X官方账号�
 
 **提示**：卡片没解锁之前是三个问号。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240612175344.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=251a98cc&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (442).png" alt=""><figcaption></figcaption></figure>
 
 2、卡片需要从下面的四个单词面板中找，如果当天所需的卡片是锁着的，那么需要找到卡片下的单词对应的卡片进行解锁购买后，才能解锁并购买所需卡门。
 
 ❗❗注意：每天的卡片不一样，还有一些卡片是需要邀请好友才能解锁的，有可能需要两个，也有可能需要四个，这个要看卡片的要求。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240613151516.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cec08f9c&#x26;sv=1" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (20) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (443).png>)![](<../../.gitbook/assets/image (444).png>)
 
 ### **03、签到**
 
 1、点击Earn板，点击Daily reward进行签到，签到10天即可获取500万金币，但是过程中不可断签，断签就要重新开始。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240617155316.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1be419a&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (445).png" alt=""><figcaption></figcaption></figure>
 
 7、这个是偶尔会有的新任务，不一定每天都有，但是每天签到的过程可以看一下，有更新就可以做。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240617155535.png.jpg&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=7afafb65&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
 
 ### **04、邀请**
 
 8、 点击Friends，点击Invite a friend，再复制框中的链接发送给好友，好友点击金币，领取之后。这样才能算邀请成功，不要直接点击复制链接，这样就算好友用了链接也会不成功的。
 
-![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240613114848.png.jpg\&width=768\&dpr=4\&quality=100\&sign=499abea7\&sv=1)![](https://airdrop.wejoinweb3.com/\~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240613114931.png.jpg\&width=768\&dpr=4\&quality=100\&sign=b91aa476\&sv=1)
+![](<../../.gitbook/assets/image (447).png>)![](<../../.gitbook/assets/image (448).png>)
 
 ### **05、地址**
 
 1、点击Airdrop，点击Connect your TON wallet，如果没有在 Telegram 账户中创建 cypto 钱包，请连接 cypto 钱包，建议使用TONkeeper钱包。谷歌应用或apple store可以搜索到。
 
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240617170942.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=484ce776&#x26;sv=1" alt="" width="375"><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (23) (1) (1).png" alt="" width="351"><figcaption></figcaption></figure>
-
-<figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240617171034.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=998fa893&#x26;sv=1" alt="" width="375"><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (450).png>)![](<../../.gitbook/assets/image (451).png>)![](<../../.gitbook/assets/image (452).png>)
 
 ## 常见问题 <a href="#chang-jian-wen-ti" id="chang-jian-wen-ti"></a>
 

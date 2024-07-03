@@ -4,7 +4,8 @@
 
 * [🥎 TON手机第一期购买](README.md)
 * [🏉 TON手机第二期购买](ton-sheng-tai/ton-shou-ji-di-er-qi-gou-mai.md)
-* [🐹 Hamster Kombat](ton-sheng-tai/hamster-kombat.md)
+* [🐹 Hamster Kombat](ton-sheng-tai/hamster-kombat/README.md)
+  * [Hamster Kombat今日卡片和摩斯密码](ton-sheng-tai/hamster-kombat/hamster-kombat-jin-ri-ka-pian-he-mo-si-mi-ma.md)
 * [🅱️ Blum](ton-sheng-tai/blum.md)
 
 ## 未分类项目教程（24.6之前）
