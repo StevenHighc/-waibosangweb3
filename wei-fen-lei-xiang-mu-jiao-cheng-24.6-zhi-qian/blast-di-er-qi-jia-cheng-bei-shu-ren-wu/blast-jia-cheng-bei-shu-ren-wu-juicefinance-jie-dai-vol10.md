@@ -30,11 +30,11 @@ description: >-
 
 ### **第一步 找到官方链接**
 
-<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 1、进入blast的空投页面[https://blast.io/zh-CN/airdrop?tab=Multipliers](https://blast.io/zh-CN/airdrop?tab=Multipliers)，找到“加成倍数”，找到“借贷“
 
@@ -44,11 +44,11 @@ description: >-
 
 ### **第二步 操作借贷**
 
-<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 1、点击：Launch APP
 
@@ -58,25 +58,25 @@ description: >-
 
 4、上方导航栏，找到LEND。
 
-<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 1、右上角，点击Connect
 
 2、记得确认连接的钱包，如果钱包不对，先取消链接。在插件钱包中切换到对应的钱包之后，再进行连接。建议使用子钱包进行交互，不要使用原本存放了blast资产的钱包。
 
-<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
 1、选择USDB
 
@@ -106,7 +106,7 @@ description: >-
 
 2、检查页面上方，总的加成倍数是否有增加，获得的积分是否有增加
 
-<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

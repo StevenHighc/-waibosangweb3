@@ -30,11 +30,11 @@ description: >-
 
 ### **第一步 找到官方链接**
 
-<figure><img src="../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 1、进入blast的空投页面[https://blast.io/zh-CN/airdrop?tab=Multipliers](https://blast.io/zh-CN/airdrop?tab=Multipliers)，找到“加成倍数”，找到“Platinum“
 
@@ -44,19 +44,19 @@ description: >-
 
 ### **第二步 swap兑换一次代币**
 
-<figure><img src="../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
 1、右上角，链接钱包，建议使用交互用的子钱包来操作。
 
@@ -90,7 +90,7 @@ description: >-
 
 2、检查页面上方，总的加成倍数是否有增加，获得的积分是否有增加
 
-<figure><img src="../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

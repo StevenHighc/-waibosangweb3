@@ -30,11 +30,11 @@ description: >-
 
 ### **第一步 找到官方链接**
 
-<figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 1、进入blast的空投页面[https://blast.io/zh-CN/airdrop?tab=Multipliers](https://blast.io/zh-CN/airdrop?tab=Multipliers)，找到“加成倍数”，找到“杂项“
 
@@ -44,13 +44,13 @@ description: >-
 
 ### **第二步 在Earn中存入ETH**
 
-<figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
 1、点击“launch on blast"
 
@@ -62,11 +62,11 @@ description: >-
 
 5、点击“ACCEPT AND SIGN”，钱包进行签名登录。
 
-<figure><img src="../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
 1、点击”Earn“进入页面
 
@@ -80,7 +80,7 @@ description: >-
 
 6、提示“Success”即为成功存入。
 
-<figure><img src="../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 1、在相同的页面中，可以进行赎回操作
 
@@ -100,7 +100,7 @@ description: >-
 
 2、检查页面上方，总的加成倍数是否有增加，获得的积分是否有增加
 
-<figure><img src="../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

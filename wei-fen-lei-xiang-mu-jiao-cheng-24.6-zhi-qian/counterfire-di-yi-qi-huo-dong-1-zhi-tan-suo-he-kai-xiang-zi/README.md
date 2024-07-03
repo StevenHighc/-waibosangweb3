@@ -44,19 +44,19 @@ description: >-
 
 2、关联X账号，返回页面验证，关注官方账号，返回页面验证，点赞文章，返回页面验证，转发推文，返回页面验证。
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 3、授权Discord，返回页面验证，接受邀请进入官方Discord，返回页面验证。
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 ### **02签到**
 
@@ -64,13 +64,13 @@ description: >-
 
 2、点击时间图标，进行签到，点击Explore Map进行探索。
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 ### **03开启盒子**
 
 1、点击盒子图标，左侧是获取的盒子，一共有四种颜色，看运气获取的，（1）不同颜色的盒子，助力的次数不同，紫色是12次，白色是5次。（2）开启箱子之前，将链接发给朋友助力，可以增加开箱奖励。（3）每个账号，每天可助力十次。
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 ### **04验证NFT**
 

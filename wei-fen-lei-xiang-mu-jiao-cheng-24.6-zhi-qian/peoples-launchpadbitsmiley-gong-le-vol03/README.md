@@ -80,7 +80,7 @@ bitSmiley 是基于 Fintegra 框架下比特币区块链的协议。它由三个
 
 ## 简要攻略 <a href="#jian-yao-gong-le" id="jian-yao-gong-le"></a>
 
-<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
 
 1. **Invite more members** - 本次活动，邀请获得的分数没有设置上限，但要求被邀请者至少获得200power才能有奖励。KOL们可以大力搞起
 2. **Stake M-bitDisc-Black** - 质押每一个这个NFT可以获得3000Powers，这个NFT在比特币网络，有这个NFT可以质押；没有的不考虑购买来参与，预期收益可能抵不过交易磨损。
@@ -121,9 +121,9 @@ bitSmiley 是基于 Fintegra 框架下比特币区块链的协议。它由三个
 
 {% embed url="https://launchpad.ally.build/?id=3&inviteCode=BCGVKL" %}
 
-<figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 
 1. 打开链接，点击右上角的JOIN NOW
 2. 建议使用EMAIL注册
@@ -132,9 +132,9 @@ bitSmiley 是基于 Fintegra 框架下比特币区块链的协议。它由三个
 
 ### **02 链接外部EVM钱包**
 
-<figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 
 1. 点击“LINK ADDITIONAL WALLETS”
 2. 点击“LINK EVM WALLET”
@@ -177,9 +177,9 @@ NFT目前地板价：0.014BTC
 
 ### **05 持有bitUSD**
 
-<figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 
 1. 通过[Meson](https://meson.fi/)跨链桥，将USDT从其他链上跨到bitlayer上
 2. USDT跨链成功后，并且作为gas的btc也跨链成功之后，进入[bitCOW](https://bitcow.xyz/swap)
@@ -189,7 +189,7 @@ NFT目前地板价：0.014BTC
 6. 确认无误，点击swap后，弹窗先进行一笔代币授权
 7. 授权成功之后，点击swap
 
-<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 1. 兑换成功之后，回到[people's lauchpad](https://launchpad.ally.build/?id=3\&inviteCode=BCGVKL)页面，点击Hold bitUSD这一行右边的“DO IT”
 2. 在弹窗中，确认bitUSD的余额，以及可以获得的Powers，确认无误后，再点击VERIFY
@@ -208,18 +208,18 @@ NFT目前地板价：0.014BTC
 
 ### **06 bitcow上的swap**
 
-<figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
 1. 进入[bitCOW](https://bitcow.xyz/swap)，想要刷swap次数的，请使用小狐狸钱包进行连接。小狐狸钱包可以自定义gas费率，okx钱包会有一些限制
 2. 打开[bitlayer浏览器](https://www.btrscan.com/)，查询当前gas费率
 
-<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
 
 1. 进行一笔兑换操作时，点击小狐狸弹窗中的gas编辑按钮
 2. 点击”高级“
@@ -230,14 +230,14 @@ NFT目前地板价：0.014BTC
 
 刷swap的次数，只看成功的swap记录数量，不看swap的数量。 wbtc的货币兑，gas会便宜些。
 
-<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
 1. 选择WBTC
 2. 选择BITUSD，WBTC跟BITUSD换来换去就可以
 3. 这里点击之后，将滑点修改为5%。
 4. 交易数量，建议折合0.01USD左右，微小数量交易磨损小，不容易交易失败。
 
-<figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
 
 操作有1-2次swap之后，可以回到[people's lauchpad](https://launchpad.ally.build/?id=3\&inviteCode=BCGVKL)，点击“swap on the bitCOW”这一行右边的“DO IT”，在弹窗中，点击VERIFY，确认swap的次数，以及可以获得的Powers是否正确。
 
@@ -249,7 +249,7 @@ NFT目前地板价：0.014BTC
 
 ### **07 质押ALLY**
 
-<figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
 
 1. 点击这一行的“DO IT”
 2. 点击MAX
@@ -264,7 +264,7 @@ NFT目前地板价：0.014BTC
 2. 点击之后，弹窗中，可以看到交易记录，STATUS下面，会有一个“REDEEM“按钮
 3. 点击之后，支付LINEA链上的一点ETH，即可赎回之前质押的$ALLY
 
-<figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
 往期的launchpad [MERLIN](https://launchpad.ally.build/zh-CN/details?id=1) [CAPYBARA CREW](https://launchpad.ally.build/zh-CN/details?id=2)
 

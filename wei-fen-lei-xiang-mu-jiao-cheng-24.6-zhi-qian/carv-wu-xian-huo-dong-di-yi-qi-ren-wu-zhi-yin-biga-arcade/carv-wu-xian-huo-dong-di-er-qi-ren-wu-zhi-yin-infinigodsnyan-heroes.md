@@ -38,17 +38,17 @@ description: >-
 
 1、先到EPIC GAMES中注册账号,登录后到FPIC游戏商城中搜索并将Nyan Hoeroes添加到愿望清单后，返回验证（记得开梯子，注册还是登录过程是有地区限制的）
 
-<figure><img src="../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、简单的社交任务，关注，转发，点赞，加入Dscord，订阅YouTube中Nyan Heroes频道，并且观看。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、点击start，跳转到MAGIC EDEN网站上添加solana地址，然后进行购买NFT，建议是不买，自己掂量。
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 

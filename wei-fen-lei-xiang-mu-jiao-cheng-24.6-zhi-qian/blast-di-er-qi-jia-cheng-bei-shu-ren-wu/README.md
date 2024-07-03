@@ -32,7 +32,7 @@ description: >-
 
 ### **01 NFTfi**
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 [https://blur.io/blast/collection/layer3-cube](https://blur.io/blast/collection/layer3-cube)打开这个链接，购买这个NFT，就可以完成任务。
 
@@ -46,7 +46,7 @@ description: >-
 
 成本：0.005ETH（14USD左右），支付的ETH，会转换成这个项目的GEMS积分。积分是可以逐步的换成这个项目的代币，同时还有blast黄金积分。具体细则后续再详细看这个项目。
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 1.打开链接，点击“redeem invite”
 
@@ -64,11 +64,11 @@ description: >-
 
 ### **03 NFT大奖和代币大奖**
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 点击跳转到“金块大奖”页面之后，点击“+”，弹窗中，选择代币或者NFT，然后选中对应的代币或者NFT，即可将代币或者NFT添加到套组中，等着抽奖开奖。
 
@@ -84,9 +84,9 @@ NFT上文已经购买了一个了， 代币的话，钱包中应该会空投一�
 
 完成任务之后，可以过几分钟之后再刷新blast的空投页面
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 
 

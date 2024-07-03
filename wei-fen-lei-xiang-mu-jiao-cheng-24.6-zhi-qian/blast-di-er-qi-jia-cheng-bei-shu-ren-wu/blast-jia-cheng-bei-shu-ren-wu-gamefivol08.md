@@ -36,11 +36,11 @@ description: >-
 
 ### **第一步 找到官方链接**
 
-<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 1、进入blast的空投页面[https://blast.io/zh-CN/airdrop?tab=Multipliers](https://blast.io/zh-CN/airdrop?tab=Multipliers)，找到“加成倍数”，找到“GameFi“
 
@@ -50,29 +50,29 @@ description: >-
 
 ### **第二步 注册游戏账号，充值**
 
-<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 使用推特登录，授权推特。
 
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 成功登录之后，页面会持续加载，请耐心等候，这个时候是网站正在为你的账号，创建一个`新内置钱包`
 
-<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 1、稍等一会，会弹出一个签名信息。这个网站为您的账号创建一个`新内置钱包`，弹出来的签名信息，也是使用这个`新内置钱包`（而非插件钱包的okx或者metamask），点击“Sign and continue”
 
@@ -88,11 +88,11 @@ description: >-
 
 接下来，就使用其他钱包，给`新内置钱包`转入0.01ETH吧。
 
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 1、充值到账之后，点击”REFRESH BALANCE“，刷新余额
 
@@ -104,15 +104,15 @@ description: >-
 
 5、有添加钱包的话，就点击”NEXT“进入下一步。
 
-<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 6、点击“CONFIRM”，确认
 
@@ -126,13 +126,13 @@ description: >-
 
 ### **第三步 导出新内置钱包，验证任务**
 
-<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 1、完成之后，页面中中间部分的右上方，可以找到“Export Wallet”，点击
 
@@ -154,7 +154,7 @@ description: >-
 
 2、检查页面上方，总的加成倍数是否有增加，获得的积分是否有增加
 
-<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
