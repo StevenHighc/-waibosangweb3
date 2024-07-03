@@ -30,7 +30,7 @@ Hamster Kombat是电报上零撸项目，推出不到一个月，X官方账号�
 
 3、每天双击Earn per tap会出现红色圈仓鼠，然后敲打摩斯密码输入单词，解锁100W金币。
 
-4、PPH（Profit per Hour）的值比Earn per tap重要。
+4、<mark style="color:purple;">**PPH（Profit per Hour）的值比Earn per tap重要。(**</mark><mark style="color:purple;">核心攻略：将获得的金币，在mine里面，升级各种卡片来增加自己的profit per hour。官方推特强调了，profit per hour，这个参数比金币的余额更加重要。</mark><mark style="color:purple;">**)**</mark>
 
 5、在 Mine 里做隐藏Daily Combo任务，完成即500W金币。
 

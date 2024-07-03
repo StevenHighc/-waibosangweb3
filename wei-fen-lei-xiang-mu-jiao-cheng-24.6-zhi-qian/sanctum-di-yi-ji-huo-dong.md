@@ -42,7 +42,7 @@ Sanctum 是基于 Solana 构建的新原语，为流动性质押提供动力，�
 
 2、邀请码系统会自动识别，点击Join now ,接着点击yes，钱包确认。
 
-<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

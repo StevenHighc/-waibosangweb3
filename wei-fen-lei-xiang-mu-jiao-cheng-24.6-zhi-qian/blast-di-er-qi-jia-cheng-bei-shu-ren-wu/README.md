@@ -32,7 +32,7 @@ description: >-
 
 ### **01 NFTfi**
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 [https://blur.io/blast/collection/layer3-cube](https://blur.io/blast/collection/layer3-cube)打开这个链接，购买这个NFT，就可以完成任务。
 
@@ -46,7 +46,7 @@ description: >-
 
 成本：0.005ETH（14USD左右），支付的ETH，会转换成这个项目的GEMS积分。积分是可以逐步的换成这个项目的代币，同时还有blast黄金积分。具体细则后续再详细看这个项目。
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.打开链接，点击“redeem invite”
 

@@ -48,11 +48,11 @@ ALIENX是一条由AI节点驱动的高性能区块链，致力于成为NFT和游
 
 1、进入页面，链接钱包，点击GO Now，在弹窗中点击Auth,授权DC，关联推特账号，转发推文，钱包既可到账0.001ETH测试代币与两个ALIENX
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、转发推文，铸造测试网NFT，钱包签名，使用的是测试代币。
 
@@ -66,39 +66,39 @@ ALIENX是一条由AI节点驱动的高性能区块链，致力于成为NFT和游
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4、质押，点击Go Now，在弹窗中点击staking，跳转到页面上，链接钱包，使用rsETH代币进行质押，收益率会增加，使用一些主流的代币质押，收益率是不会有增加的。
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5、部署测试网合约，点击Go Now，点击View Doc。跳转到页面，点击Remix，鼠标移键移到代码上，点击copy,复制代码，回到部署合约网站页面，粘贴到面板上面，每一条点击一下回车键，点击Solidity compiler，点击Copile Alienx.sol。
 
 部署合约网站链接： [https://remix.ethereum.org/#lang=en\&optimize=false\&runs=200\&evmVersion=null\&version=soljson-v0.8.25+commit.b61c2a91.js](https://remix.ethereum.org/#lang=en\&optimize=false\&runs=200\&evmVersion=null\&version=soljson-v0.8.25+commit.b61c2a91.js)
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 （1）先在部署合约网站添加Alienx，再去到官方文档页面，点击Remix，鼠标移键移到代码上，点击copy,复制代码，回到部署合约网站页面，粘贴到面板上面，每一条点击一下回车键，点击Solidity compiler，点击Copile Alienx.sol。
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 （2）点击Deploy\&run transactions。在左侧点击ENVIRONMENT小三角，选择钱包，进行链接后，点击Deploy，钱包确认，使用的是测试网代币，要确认好链接的是测试网的。
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6、点击Go Now，点击Go，跳转到页面上链接钱包，右上角点击小三角，换一下网络，页面往下滑，找到NFT，点击pellKey，进入页面，随意点击一个进行购买，钱包确认，注意查看一下网络。（购买五次，一次两分）
 
