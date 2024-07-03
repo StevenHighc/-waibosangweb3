@@ -39,6 +39,7 @@
 * [🦽 Bouncebit-币安Megadrop第一期活动](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/bouncebit-bi-an-megadrop-di-yi-qi-huo-dong.md)
 * [🖥️ LISTA-币安Megadrop第二期活动](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/lista-bi-an-megadrop-di-er-qi-huo-dong.md)
 * [💛 Particle Network-粒子钱包测试网积分任务](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/particle-network-li-zi-qian-bao-ce-shi-wang-ji-fen-ren-wu/README.md)
+  * [🛺 Particle Network-粒子钱包更新第二阶段任务Phase2](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/particle-network-li-zi-qian-bao-ce-shi-wang-ji-fen-ren-wu/particle-network-li-zi-qian-bao-geng-xin-di-er-jie-duan-ren-wu-phase2.md)
   * [📲 Particle Network-钱包安全设置建议](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/particle-network-li-zi-qian-bao-ce-shi-wang-ji-fen-ren-wu/particle-network-qian-bao-an-quan-she-zhi-jian-yi.md)
 * [😆 Sanctum-第一季活动](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/sanctum-di-yi-ji-huo-dong.md)
 * [🚨 Counterfire第一期活动1之探索和开箱子](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/counterfire-di-yi-qi-huo-dong-1-zhi-tan-suo-he-kai-xiang-zi/README.md)
