@@ -1,8 +1,10 @@
 # Table of contents
 
+* [🇹🇴 使用方法](README.md)
+
 ## TON生态
 
-* [🥎 TON手机第一期购买](README.md)
+* [🥎 TON手机第一期购买](<README (1).md>)
 * [🏉 TON手机第二期购买](ton-sheng-tai/ton-shou-ji-di-er-qi-gou-mai.md)
 * [🐹 Hamster Kombat](ton-sheng-tai/hamster-kombat/README.md)
   * [Hamster Kombat今日卡片和摩斯密码](ton-sheng-tai/hamster-kombat/hamster-kombat-jin-ri-ka-pian-he-mo-si-mi-ma.md)
@@ -10,7 +12,6 @@
 
 ## 未分类项目教程（24.6之前）
 
-* [😄 使用方法](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/shi-yong-fang-fa.md)
 * [🐻 \[V2\]\[0撸\]Berachain-12min-以太L1公链测试网交互教程-详细教程文档http://suo.im/7YA5Z](wai-bo-sang-web3-kong-tou-jiao-cheng/v20-lu-berachain12min-yi-tai-l1-gong-lian-ce-shi-wang-jiao-hu-jiao-cheng-xiang-xi-jiao-cheng-wen-dan.md)
 * [🪅 \[0撸\]Avalon-早期测试网元宇宙融资2300万交互积分教程-详细教程文档](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-avalon-zao-qi-ce-shi-wang-yuan-yu-zhou-rong-zi-2300-wan-jiao-hu-ji-fen-jiao-cheng-xiang-xi-jiao.md)
 * [🤭 \[0撸\]Analog-GMP网关教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-analoggmp-wang-guan-jiao-cheng.md)
