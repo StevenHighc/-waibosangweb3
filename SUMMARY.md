@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇹🇴 使用方法](README.md)
+* [🇹🇴 文档说明和使用](README.md)
 
 ## TON生态
 
