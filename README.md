@@ -2,9 +2,9 @@
 
 \--------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
 
-【使用技巧】<mark style="color:purple;">按住Ctrl/Command再点超链接可以打开新窗口</mark>
+【使用技巧】<mark style="color:purple;">按住Ctrl/Command 再点 超链接 可以打开新窗口</mark>
 
-【啰嗦几句】最近国内文档(<mark style="color:purple;">项目管理表格可下载：</mark>[<mark style="color:purple;">http://suo.im/xmgl</mark>](http://suo.im/xmgl))平台被举报的有点多。求放过!如有侵犯，请私聊我。谢谢
+【啰嗦几句】最近国内文档(<mark style="color:purple;">项目管理表格可下载：</mark>[<mark style="color:blue;">http://suo.im/xmgl</mark>](http://suo.im/xmgl))平台被举报的有点多。求放过!如有侵犯，请私聊我。谢谢
 
 【自我介绍】本人23年12月份左右被朋友带入圈，从之前的新手到现在还是新手，到现在对整个行业认知还是只是管中窥豹。每个人都有进来这个圈子的理由，而我的理由是我有證件優勢，对新事物感兴趣，并且我坚信这个行业可以给我想要的自由。所以在任何时候只有有人带我，都是最好的时机。
 
@@ -16,10 +16,12 @@
 
 【wx交流群】-定期更新二维码
 
-我没有时间精力去写群规则，管理群聊天动态，毕竟这个圈子的话题在wx就很容易被警告或封群。所以我不想建一个乱糟糟充斥各种垃圾信息的群。活在这个垃圾信息满天飞的世界都不容易。但是如果大家按照文档完成项目过程中有遇到什么问题，可以加入这个群。刚开始可能人少，但我看到都回复的
+我没有时间精力去写群规则，管理群聊天动态，毕竟这个圈子的话题在国内平台就很容易被警告或封群。所以我不想建一个乱糟糟充斥各种垃圾信息的群。活在这个垃圾信息满天飞的世界都不容易。但是如果大家按照文档完成项目过程中有遇到什么问题，可以加入群抱团互助。
 
 推特：[https://x.com/WaibosangWeb3](https://x.com/WaibosangWeb3)
 
-TG：[https://t.me/+8yErYt56B9VjM2U1](https://t.me/+8yErYt56B9VjM2U1)X： mafoo1314
+TG：[https://t.me/+8yErYt56B9VjM2U1](https://t.me/+8yErYt56B9VjM2U1)
+
+VX： mafoo1314
 
 项目管理文档：[http://suo.im/xmgl &#x20;](http://suo.im/xmgl)
