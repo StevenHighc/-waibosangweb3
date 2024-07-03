@@ -72,6 +72,14 @@ _Warpcast_ 是去中心化的社交网络Farcaster 的客户端，可以帮助�
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+3\. 玩法：多活跃，至少 10关注，10发文，10点赞，10评论，互转Warp。
+
+关注必回：[https://warpcast.com/waibosangweb3](https://warpcast.com/waibosangweb3)
+
+
+
+
+
 ## 免责声明 <a href="#mian-ze-sheng-ming" id="mian-ze-sheng-ming"></a>
 
 本文仅供学习和交流使用，其内容并不构成任何形式的投资建议。请您始终谨记，必须自行进行详细研究，并自我负责所有相关风险。
