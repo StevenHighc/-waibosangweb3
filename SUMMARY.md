@@ -18,7 +18,7 @@
 * [🚛 CARV-无限活动第一期任务指引BIGA Arcade](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/README.md)
   * [🦸‍♀️ CARV-无限活动第二期任务指引InfiniGods-Nyan Heroes](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-er-qi-ren-wu-zhi-yin-infinigodsnyan-heroes.md)
   * [😉 CARV-无限活动第二期任务指引InfiniGods-King Of Destiny](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-er-qi-ren-wu-zhi-yin-infinigodsking-of-destiny.md)
-  * [CARV-无限活动第三期任务](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-san-qi-ren-wu.md)
+  * [🙂 CARV-无限活动第三期任务](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade/carv-wu-xian-huo-dong-di-san-qi-ren-wu.md)
 * [🐦 StakeStone-Vol.01\[投研\]](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/stakestonevol.01-tou-yan.md)
 * [🥸 BLAST-第二期加成倍数任务](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/blast-di-er-qi-jia-cheng-bei-shu-ren-wu/README.md)
   * [🏹 BLAST-BEBOP-交易可获赠黄金积分](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/blast-di-er-qi-jia-cheng-bei-shu-ren-wu/blastbebop-jiao-yi-ke-huo-zeng-huang-jin-ji-fen.md)
