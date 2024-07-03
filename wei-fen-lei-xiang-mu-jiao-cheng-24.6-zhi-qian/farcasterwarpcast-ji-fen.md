@@ -4,9 +4,11 @@ description: >-
   发表时间：2024-05-27
 ---
 
-# 🎞️ Farcaster-Warpcas积分
+# 🎞️ Farcaster-Warpcast积分
 
 \#社交软件 #钱包
+
+推特教程：
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

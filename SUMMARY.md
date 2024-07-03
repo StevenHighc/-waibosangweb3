@@ -44,6 +44,6 @@
 * [🌲 Mint Blockchain早期活动宝箱](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/mint-blockchain-zao-qi-huo-dong-bao-xiang.md)
 * [📷 Tabi NewWorld积分Mint$GG](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/tabi-newworld-ji-fen-mintgg.md)
 * [📸 Tabi-第二季The Pirate Island测试网](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/tabi-di-er-ji-the-pirate-island-ce-shi-wang.md)
-* [🎞️ Farcaster-Warpcas积分](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/farcasterwarpcas-ji-fen.md)
+* [🎞️ Farcaster-Warpcast积分](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/farcasterwarpcast-ji-fen.md)
 * [👽 Alienx-外星人测试网交互](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/alienx-wai-xing-ren-ce-shi-wang-jiao-hu.md)
 * [👼 Babylon测试网质押](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/babylon-ce-shi-wang-zhi-ya.md)
