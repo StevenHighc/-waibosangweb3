@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🇹🇴 \[置顶\]文档说明和使用](README.md)
-* [🥱 空投项目表@waibosangweb3制作](kong-tou-xiang-mu-biao-waibosangweb3-zhi-zuo.md)
+* [🥱 空投项目表@waibosangweb3制作](README.md)
+* [🇹🇴 \[置顶\]文档说明和使用](<README (2).md>)
 
 ## TON生态
 
