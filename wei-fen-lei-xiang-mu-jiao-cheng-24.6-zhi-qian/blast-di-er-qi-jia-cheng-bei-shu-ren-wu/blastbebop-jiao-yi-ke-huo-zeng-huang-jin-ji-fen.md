@@ -35,7 +35,7 @@ bebop官网：[https://bebop.xyz/trade?network=blast](https://bebop.xyz/trade?ne
 
 ### **Wrap WETH**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 大部分的交易兑，是使用WETH的，因此建议在操作之前，先将ETH，wrap成WETH。
 

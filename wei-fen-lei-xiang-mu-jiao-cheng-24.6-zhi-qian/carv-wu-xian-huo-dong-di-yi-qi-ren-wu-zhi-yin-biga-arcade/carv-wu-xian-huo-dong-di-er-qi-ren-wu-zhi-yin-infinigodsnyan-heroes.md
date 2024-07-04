@@ -42,7 +42,7 @@ description: >-
 
 2、简单的社交任务，关注，转发，点赞，加入Dscord，订阅YouTube中Nyan Heroes频道，并且观看。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、点击start，跳转到MAGIC EDEN网站上添加solana地址，然后进行购买NFT，建议是不买，自己掂量。
 
