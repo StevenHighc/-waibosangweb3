@@ -4,7 +4,7 @@
 
 【使用技巧】<mark style="color:purple;">按住Ctrl/Command 再点 超链接 可以打开新窗口</mark>
 
-【啰嗦几句】最近国内文档(<mark style="color:purple;">项目管理表格可下载：</mark>[http://suo.im/9wmkm](http://suo.im/9wmkm))平台被举报的有点多。求放过!如有侵犯，请私聊我。谢谢
+【啰嗦几句】最近国内文档(<mark style="color:purple;">项目管理表格可下载：</mark>[<mark style="color:purple;">http://suo.im/ahhl5</mark>](http://suo.im/ahhl5))平台被举报的有点多。求放过!如有侵犯，请私聊我。谢谢
 
 【自我介绍】本人23年12月份左右被朋友带入圈，从之前的新手到现在还是新手，到现在对整个行业认知还是只是管中窥豹。每个人都有进来这个圈子的理由，而我的理由是我有證件優勢，对新事物感兴趣，并且我坚信这个行业可以给我想要的自由。所以在任何时候只有有人带我，都是最好的时机。
 
@@ -18,7 +18,7 @@
 
 我没有时间精力去写群规则，管理群聊天动态，毕竟这个圈子的话题在国内平台就很容易被警告或封群。所以我不想建一个乱糟糟充斥各种垃圾信息的群。活在这个垃圾信息满天飞的世界都不容易。但是如果大家按照文档完成项目过程中有遇到什么问题，可以加入群抱团互助。
 
-文档首页（永久链接，建议收藏）：[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu)[](http://suo.im/xmgl)
+文档首页（永久链接，建议收藏）：[https://waibosangweb3.gitbook.io](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu)[](http://suo.im/xmgl)
 
 推特：[https://x.com/WaibosangWeb3](https://x.com/WaibosangWeb3)
 
