@@ -2,7 +2,7 @@
 
 * [🥱 空投项目表@waibosangweb3制作](README.md)
 * [🇹🇴 \[置顶\]文档说明和使用](<README (2).md>)
-* [📖 操作参考](cao-zuo-can-kao.md)
+* [📖 每天操作参考](mei-tian-cao-zuo-can-kao.md)
 
 ## TON生态
 
