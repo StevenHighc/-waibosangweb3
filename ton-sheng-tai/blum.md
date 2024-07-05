@@ -24,7 +24,7 @@ Blum是由前币安经理打造的CEX和DEX的混合体，将通过Telegram运�
 
 ## 简要操作步骤 <a href="#jian-yao-cao-zuo-bu-zhou" id="jian-yao-cao-zuo-bu-zhou"></a>
 
-链接: [t.me/BlumCryptoBot/app?startapp=ref\_WBRl5NeCrd](https://t.me/BlumCryptoBot/app?startapp=ref\_WBRl5NeCrd)
+链接: [https://t.me/BlumCryptoBot/app?startapp=ref\_WBRl5NeCrd](https://t.me/BlumCryptoBot/app?startapp=ref\_WBRl5NeCrd)
 
 1、使用链接，进入TG搜索。
 
