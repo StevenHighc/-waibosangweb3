@@ -18,6 +18,7 @@
 * [🪅 \[0撸\]Avalon-早期测试网元宇宙融资2300万交互积分教程-详细教程文档](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-avalon-zao-qi-ce-shi-wang-yuan-yu-zhou-rong-zi-2300-wan-jiao-hu-ji-fen-jiao-cheng-xiang-xi-jiao.md)
 * [🤭 \[0撸\]Analog-GMP网关教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-analoggmp-wang-guan-jiao-cheng.md)
 * [🎩 CARV-无限活动Infinite Play](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-infinite-play/README.md)
+  * [Page](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-infinite-play/page.md)
   * [🚛 CARV-无限活动第一期任务指引BIGA Arcade](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-infinite-play/carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade.md)
   * [🦸‍♀️ CARV-无限活动第二期任务指引InfiniGods-Nyan Heroes](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-infinite-play/carv-wu-xian-huo-dong-di-er-qi-ren-wu-zhi-yin-infinigodsnyan-heroes.md)
   * [😉 CARV-无限活动第二期任务指引InfiniGods-King Of Destiny](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/carv-wu-xian-huo-dong-infinite-play/carv-wu-xian-huo-dong-di-er-qi-ren-wu-zhi-yin-infinigodsking-of-destiny.md)
