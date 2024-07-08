@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🐦 StakeStone-Vol.01\[投研]
+# 🐦 \[投研]StakeStone-Vol.01
 
 ## 基本资料 <a href="#ji-ben-zi-liao" id="ji-ben-zi-liao"></a>
 

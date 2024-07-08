@@ -4,8 +4,8 @@
 
 需要先参加Carv空投活动，消耗Gas做线上交互获得Soul，才能参加Infinite Play活动。
 
-{% content-ref url="3ugascarv-jing-xuan-she-jiao-huo-dong-lie-biao.md" %}
-[3ugascarv-jing-xuan-she-jiao-huo-dong-lie-biao.md](3ugascarv-jing-xuan-she-jiao-huo-dong-lie-biao.md)
+{% content-ref url="page.md" %}
+[page.md](page.md)
 {% endcontent-ref %}
 
 ## 活动规则：
@@ -18,8 +18,8 @@ Infinite Play 结合了质押、投票、游戏和赚钱，让您有能力塑造
 
 ## 文档列表：
 
-{% content-ref url="3ugascarv-jing-xuan-she-jiao-huo-dong-lie-biao.md" %}
-[3ugascarv-jing-xuan-she-jiao-huo-dong-lie-biao.md](3ugascarv-jing-xuan-she-jiao-huo-dong-lie-biao.md)
+{% content-ref url="page.md" %}
+[page.md](page.md)
 {% endcontent-ref %}
 
 {% content-ref url="carv-wu-xian-huo-dong-di-yi-qi-ren-wu-zhi-yin-biga-arcade.md" %}
