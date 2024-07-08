@@ -1,10 +1,12 @@
 ---
-description: 每日Gas预览：ronin=0u，opbnb≈0.01u，zksync≈0.02u，linea≈0.01u
+description: 本文内容具有时效性，请注意，文中所提到的资讯、活动及信息可能已经发生变化，与当前实际情况有所不同。我们建议您在做出任何决策之前，始终进行自主研究和验证。
 ---
 
 # 😃 \[3u]\[Gas]Carv精选社交活动列表
 
 ## 01 在线文档：[\[3u\]\[GAS\]Carv精选社交活动列表](https://mvnagk74pq.feishu.cn/docx/SONkdqTjMougtPxSAeOclyzRnng)
+
+每日Gas预览：ronin=0u，opbnb≈0.01u，zksync≈0.02u，linea≈0.01u
 
 ### 1. **项目信息**
 

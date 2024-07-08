@@ -32,7 +32,7 @@ TON手机可以参考solana手机，solana手机已经获得solana生态上的�
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415102527.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7dff1e50&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://airdrop.wejoinweb3.com/~gitbook/image?url=http%3A%2F%2Fbs-image-host.oss-cn-guangzhou.aliyuncs.com%2FPasted%2520image%252020240415152845.png.jpg&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=99eae798&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
