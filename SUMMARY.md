@@ -8,7 +8,7 @@
 
 * [\[链游\]冒险岛MapleStory Universe测试网积分](jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen.md)
 * [\[0撸\]Movement-Polychain领投融资4140万-银河任务](jin-qi/0-lu-movementpolychain-ling-tou-rong-zi-4140-wan-yin-he-ren-wu.md)
-* [Page](jin-qi/page.md)
+* [\[链游\]Sonic-融资1600万首个SolanaL2游戏扩容方案测试网教程](jin-qi/lian-you-sonic-rong-zi-1600-wan-shou-ge-solanal2-you-xi-kuo-rong-fang-an-ce-shi-wang-jiao-cheng.md)
 
 ## TON生态
 
