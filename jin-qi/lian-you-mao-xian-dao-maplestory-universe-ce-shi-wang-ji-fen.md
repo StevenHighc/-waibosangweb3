@@ -40,7 +40,7 @@ description: >-
 
 1. 银河任务1： [https://app.galxe.com/quest/MapleStoryUniverse/GCBxytgdNB](https://t.co/yEx7Qg7lCX)
 2. 银河任务2（截止到 7/7）： \
-   [https://app.galxe.com/quest/bFVThnNboRiSDfvCEkqGb8/GCCoZtgBwz](https://t.co/JrWZtkpqS2)CACAB BCBAD
+   [https://app.galxe.com/quest/bFVThnNboRiSDfvCEkqGb8/GCCoZtgBwz](https://t.co/JrWZtkpqS2):CACAB BCBAD
 3. 银河任务3（截止到 7/7，包含每日任务和连续登陆奖励）： \
    [https://app.galxe.com/quest/MapleStoryUniverse/GCqPZtgbfS](https://t.co/Ubgrz8kikG)\
    进入官方任务界面 - 点击 dressroom - 选择装扮，保存
