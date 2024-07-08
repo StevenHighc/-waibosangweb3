@@ -4,9 +4,9 @@
 * [🇹🇴 \[置顶\]文档说明和使用](<README (2).md>)
 * [📖 每天操作参考](mei-tian-cao-zuo-can-kao.md)
 
-## 7月
+## 近期
 
-* [\[链游\]冒险岛MapleStory Universe测试网积分](7-yue/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen.md)
+* [\[链游\]冒险岛MapleStory Universe测试网积分](jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen.md)
 
 ## TON生态
 
