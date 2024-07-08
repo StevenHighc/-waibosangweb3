@@ -17,7 +17,7 @@ description: >-
 
 ## 推荐理由
 
-1. 融资1600w美金，Sonic 由 Mirror World 开发，团队成员在区块链和游戏开发领域具有丰富经验，CEO来自字节高级产品经理，项目的技术顾问是Solana 创始团队成员。注意：团队是华人背景，OKX投资，0撸可冲。
+1. 融资1600w美金，Sonic 由 Mirror World 开发，团队成员在区块链和游戏开发领域具有丰富经验，CEO来自字节高级产品经理，项目的技术顾问是Solana 创始团队成员。注意：团队是华人背景，OKX投资，0撸可冲。详见[DR](https://www.rootdata.com/zh/Projects/detail/Sonic?k=MTIxMjc%3D)
 
 ## 简要操作步骤&#x20;
 
