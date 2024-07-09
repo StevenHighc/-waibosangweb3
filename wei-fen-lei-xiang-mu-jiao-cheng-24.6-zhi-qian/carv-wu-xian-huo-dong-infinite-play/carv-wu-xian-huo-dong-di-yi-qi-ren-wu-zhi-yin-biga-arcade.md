@@ -4,6 +4,8 @@ description: 2024-3-22 23:52:18，创建文档。作者：wejoin
 
 # 🚛 CARV-无限活动第一期任务指引BIGA Arcade
 
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+
 ## 页面链接 <a href="#ye-mian-lian-jie" id="ye-mian-lian-jie"></a>
 
 {% embed url="https://protocol.carv.io/airdrop?invite_code=8V711F" %}

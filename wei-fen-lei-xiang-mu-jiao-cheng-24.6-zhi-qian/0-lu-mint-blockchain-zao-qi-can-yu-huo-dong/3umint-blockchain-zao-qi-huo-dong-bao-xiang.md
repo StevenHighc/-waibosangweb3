@@ -4,9 +4,11 @@ description: >-
   发表时间：2024-05-22
 ---
 
-# 🌲 Mint Blockchain早期活动宝箱
+# 🌲 \[3u]Mint Blockchain早期活动宝箱
 
 \#跨链 #激活 #宝箱
+
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

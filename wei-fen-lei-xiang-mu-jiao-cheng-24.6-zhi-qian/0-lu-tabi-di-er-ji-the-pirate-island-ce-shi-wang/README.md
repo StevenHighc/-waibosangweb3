@@ -2,9 +2,11 @@
 description: 本文内容具有时效性，请注意，文中所提到的资讯、活动及信息可能已经发生变化，与当前实际情况有所不同。我们建议您在做出任何决策之前，始终进行自主研究和验证。
 ---
 
-# 📸 Tabi-第二季The Pirate Island测试网
+# 📸 \[0撸]Tabi-第二季The Pirate Island测试网
 
 \#币安 #NFT #代币 #白名单
+
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

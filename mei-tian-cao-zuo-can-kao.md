@@ -1,3 +1,7 @@
+---
+description: 右上角输入框可搜索项目关键字/英文名↗↗↗
+---
+
 # 📖 每天操作参考
 
 【使用技巧】<mark style="color:purple;">按住Ctrl/Command 再点 超链接 可以打开新窗口</mark>

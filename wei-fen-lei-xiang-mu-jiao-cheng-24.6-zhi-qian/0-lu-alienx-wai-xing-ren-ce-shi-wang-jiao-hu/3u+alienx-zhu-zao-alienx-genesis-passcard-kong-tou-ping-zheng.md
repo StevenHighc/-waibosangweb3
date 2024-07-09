@@ -5,6 +5,8 @@ description: >-
 
 # 👽 \[3u+]ALIENX-铸造ALIENX Genesis Passcard空投凭证
 
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+
 ## 活动时间与成本
 
 内容：ALIENX Genesis Passcard是参加主网活动Genesis Voyage和空投凭证，建议参与。其他主网任务需要消耗成本和Gas，酌情参与。

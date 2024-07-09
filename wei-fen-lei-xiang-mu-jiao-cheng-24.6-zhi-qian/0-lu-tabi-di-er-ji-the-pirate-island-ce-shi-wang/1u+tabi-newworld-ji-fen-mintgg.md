@@ -4,9 +4,11 @@ description: >-
   发表时间：2024-05-27
 ---
 
-# 📷 Tabi NewWorld积分Mint$GG
+# 📷 \[1u+]Tabi NewWorld积分Mint$GG
 
 \#钱包 #测试代币
+
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

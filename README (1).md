@@ -8,6 +8,8 @@ description: >-
 
 \#TON #ton生态 #手机 #bitget钱包 #ton
 
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+
 ## 手机介绍 <a href="#shou-ji-jie-shao" id="shou-ji-jie-shao"></a>
 
 TON手机可以参考solana手机，solana手机已经获得solana生态上的空投了，所以这个想象空间还是很大的。<mark style="color:purple;">特别说明：Oyster Labs 是 Ton foundation与hashkey合作孵化营第一批成員 目前还不是官方手机，正在争取。</mark>

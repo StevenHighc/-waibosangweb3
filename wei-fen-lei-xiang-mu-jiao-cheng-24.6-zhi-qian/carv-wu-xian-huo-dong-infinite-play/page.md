@@ -4,7 +4,9 @@ description: 本文内容具有时效性，请注意，文中所提到的资讯�
 
 # 😃 \[3u]\[Gas]Carv精选社交活动列表
 
-## 01 在线文档：[\[3u\]\[GAS\]Carv精选社交活动列表](https://mvnagk74pq.feishu.cn/docx/SONkdqTjMougtPxSAeOclyzRnng)
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+
+## 在线文档：[\[3u\]\[GAS\]Carv精选社交活动列表](https://mvnagk74pq.feishu.cn/docx/SONkdqTjMougtPxSAeOclyzRnng)
 
 每日Gas预览：ronin=0u，opbnb≈0.01u，zksync≈0.02u，linea≈0.01u
 
@@ -21,7 +23,7 @@ description: 本文内容具有时效性，请注意，文中所提到的资讯�
 
 <figure><img src="../../.gitbook/assets/image (471).png" alt="" width="375"><figcaption></figcaption></figure>
 
-## 02 备注
+## 备注
 
 如果文档链接提示“检测到风险内容，已停止分享”，说明文档被jubao无效了，请[联系我](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/zhi-ding-wen-dang-shuo-ming-he-shi-yong#jiao-liu-qun)更新
 

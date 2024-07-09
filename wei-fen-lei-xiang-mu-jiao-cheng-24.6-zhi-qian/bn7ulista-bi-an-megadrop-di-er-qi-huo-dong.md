@@ -4,9 +4,11 @@ description: >-
   发表时间：2024-05-31
 ---
 
-# 🖥️ LISTA-币安Megadrop第二期活动
+# 🖥️ \[BN]\[7u]LISTA-币安Megadrop第二期活动
 
 \#web3 #钱包 #质押
+
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

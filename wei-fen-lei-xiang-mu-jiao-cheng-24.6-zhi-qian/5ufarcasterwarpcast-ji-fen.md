@@ -8,6 +8,8 @@ description: >-
 
 \#社交软件 #钱包
 
+\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+
 推特教程：[https://x.com/WaibosangWeb3/status/1793463215004999917](https://x.com/WaibosangWeb3/status/1793463215004999917)
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
