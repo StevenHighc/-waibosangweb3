@@ -21,7 +21,7 @@ beoble 是一个通信基础设施和生态系统，允许用户在钱包之间�
 
 链接（如失效请联系）：[https://mvnagk74pq.feishu.cn/docx/Ea2tdFn3EoY426xA1DwcopUQnke?302from=wiki](https://mvnagk74pq.feishu.cn/docx/Ea2tdFn3EoY426xA1DwcopUQnke?302from=wiki)
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 项目表格：[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu)
 

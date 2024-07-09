@@ -21,13 +21,13 @@ description: >-
 
 融资 1 亿美元，热门IP，0撸。风险：投资机构单一，王婆卖瓜，智者见智。详见[rootdata](https://www.rootdata.com/zh/Projects/detail/MapleStory%20Universe?k=ODE0OA%3D%3D)
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 简要操作步骤
 
 完成银河任务，连接钱包注册，需要使用和银河任务相同的钱包登陆，后面是需要 KYC 的 （提示区域限制的话换梯子，可以试试香港和马来的）
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 ## 详细步骤
 
@@ -36,7 +36,7 @@ description: >-
 1. 进官方 DC
 2. 发推文（如图，详见 dc mini-announcement 频道）
 3. 截图（需要带有自己发的推文和推特 id 的，dc 里有样图）
-4. 把截图和推文发到 dc - community event 频道 （里面频道很多，选择最近开放的一个发就行）![](<../.gitbook/assets/image (3) (1) (1).png>)
+4. 把截图和推文发到 dc - community event 频道 （里面频道很多，选择最近开放的一个发就行）![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 ### 02 三个银河任务
 
