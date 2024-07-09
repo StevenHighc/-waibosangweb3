@@ -6,9 +6,7 @@ description: >-
 
 # 🌲 \[0撸]Mint Blockchain 早期参与活动
 
-\#签到 #测试网代币
-
-\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+\#签到 #测试网代币 #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

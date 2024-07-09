@@ -1,6 +1,6 @@
-# 🦽 Bouncebit-币安Megadrop第一期活动
+# 🦽 \[BN]\[10u]Bouncebit-币安Megadrop第一期活动
 
-\#钱包 #binance
+\#钱包 #binance #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

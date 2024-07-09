@@ -6,7 +6,7 @@ description: >-
 
 # 🚡 Counterfire第一期活动2之游戏
 
-\#游戏
+\#游戏 #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间 <a href="#huo-dong-shi-jian" id="huo-dong-shi-jian"></a>
 

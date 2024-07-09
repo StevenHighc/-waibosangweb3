@@ -6,9 +6,7 @@ description: >-
 
 # 🥎 TON手机第一期购买
 
-\#TON #ton生态 #手机 #bitget钱包 #ton
-
-\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+\#TON #ton生态 #手机 #bitget钱包 #ton #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 手机介绍 <a href="#shou-ji-jie-shao" id="shou-ji-jie-shao"></a>
 

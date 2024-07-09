@@ -6,9 +6,7 @@ description: >-
 
 # 🥸 \[打新]BLAST-第二期加成倍数任务
 
-\#blast
-
-\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+\#blast #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

@@ -4,9 +4,9 @@ description: >-
   发表时间：2024-04-24
 ---
 
-# 🎣 Volmex-测试网积分活动
+# 🎣 \[0撸]Volmex-测试网积分活动
 
-\#代币 #测试网 #价格
+\#代币 #测试网 #价格 #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

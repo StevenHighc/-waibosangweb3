@@ -6,7 +6,7 @@ description: >-
 
 # 👋 BLAST-加成倍数任务JuiceFinance借贷-VOL10
 
-\#blast
+\#blast #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

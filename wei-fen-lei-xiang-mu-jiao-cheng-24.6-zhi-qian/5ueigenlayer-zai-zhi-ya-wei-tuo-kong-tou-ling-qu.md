@@ -4,9 +4,9 @@ description: >-
   发表时间：2024-05-20 17:58
 ---
 
-# 🛻 Eigenlayer再质押委托空投领取
+# 🛻 \[5u]Eigenlayer再质押委托空投领取
 
-\#再质押 #restake #eigen #eigenlayer
+\#再质押 #restake #eigen #eigenlayer #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

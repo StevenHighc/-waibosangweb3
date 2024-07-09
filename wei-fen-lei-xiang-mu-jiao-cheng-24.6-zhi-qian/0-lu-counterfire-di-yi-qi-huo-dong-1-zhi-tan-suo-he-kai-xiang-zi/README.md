@@ -4,9 +4,9 @@ description: >-
   发表时间：2024-04-24
 ---
 
-# 🚨 Counterfire第一期活动1之探索和开箱子
+# 🚨 \[≈0撸]Counterfire第一期活动1之探索和开箱子
 
-\#NFT #签到 #探索
+\#NFT #签到 #探索 #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

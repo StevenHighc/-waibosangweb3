@@ -4,9 +4,9 @@ description: >-
   发表时间：2024-04-24
 ---
 
-# 😚 \[链游]Smolbound-早期参与社交任务
+# 😚 \[0撸]\[链游]Smolbound-早期参与社交任务
 
-\#游戏 #社交
+\#游戏 #社交 #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

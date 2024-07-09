@@ -6,7 +6,7 @@ description: >-
 
 # 🏹 BLAST-BEBOP-交易可获赠黄金积分
 
-\#bebop #blast #ezeth
+\#bebop #blast #ezeth #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 基本资料 <a href="#ji-ben-zi-liao" id="ji-ben-zi-liao"></a>
 

@@ -4,9 +4,7 @@ description: 本文内容具有时效性，请注意，文中所提到的资讯�
 
 # 📸 \[0撸]Tabi-第二季The Pirate Island测试网
 
-\#币安 #NFT #代币 #白名单
-
-\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+\#币安 #NFT #代币 #白名单 #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

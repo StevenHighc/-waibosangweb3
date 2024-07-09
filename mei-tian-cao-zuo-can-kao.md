@@ -8,7 +8,23 @@ description: 右上角输入框可搜索项目关键字/英文名↗↗↗
 
 
 
+## Week28
 
+{% hint style="info" %}
+2024年7月8日
+
+1. 日常任务
+2. Caldera进度。检查自己的 8 个 OAT 是不是都有，银河右上角头像 - NFT & OAT（用户名右侧小字），选择 OATS 。最后合成的 NFT 是跟账户绑定的，不能买卖。想买 oat 的看这里（无投资建议） [https://element.market/collections/galaxy-oat2?search\[query\]=olive](https://t.co/4ovLPfFlIb)
+3. MapleStory冒险岛任务更新：
+   1. 教程：[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen)
+   2. 银河新任务1：[https://app.galxe.com/quest/MapleStoryUniverse/GCTEttkE4k](https://t.co/meJ2e11Zwv)，包括每日登录、连续登录、解锁更衣室三级，更衣室三级需要 600 分
+   3. 银河新任务2： [https://app.galxe.com/quest/MapleStoryUniverse/GCFCntgJGa](https://t.co/DJNhCOauGG)，答案：DBADB BCABA
+4. movement银河任务2可以验证了，绑定地址教程。[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/0-lu-movementpolychain-ling-tou-rong-zi-4140-wan-yin-he-ren-wu#id-02-yin-he-ren-wu](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/0-lu-movementpolychain-ling-tou-rong-zi-4140-wan-yin-he-ren-wu#id-02-yin-he-ren-wu)
+5. Sonic链游图文教程。\
+   [https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-sonic-rong-zi-1600-wan-shou-ge-solanal2-you-xi-kuo-rong-fang-an-ce-shi-wang-jiao-cheng](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-sonic-rong-zi-1600-wan-shou-ge-solanal2-you-xi-kuo-rong-fang-an-ce-shi-wang-jiao-cheng)
+
+
+{% endhint %}
 
 ## Week27
 

@@ -4,9 +4,9 @@ description: >-
   发表时间：2024-06-12
 ---
 
-# 🎣 KIP Protocol社区空投第二期
+# 🎣 \[1u+]KIP Protocol社区空投第二期
 
-\#AI #社交 #NFT
+\#AI #社交 #NFT #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

@@ -6,8 +6,7 @@ description: >-
 
 # 👽 \[0撸]Alienx-外星人测试网交互
 
-\#测试网代币 #mintNTFT #Alienx\
-\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+\#测试网代币 #mintNTFT #Alienx #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

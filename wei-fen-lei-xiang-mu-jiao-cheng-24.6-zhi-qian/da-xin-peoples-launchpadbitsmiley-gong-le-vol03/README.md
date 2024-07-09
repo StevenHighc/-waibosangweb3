@@ -4,11 +4,11 @@ description: >-
   发表时间：2024-05-07 19:12
 ---
 
-# 🚐 People's Launchpad-BITSMILEY攻略-VOL03
+# 🚐 \[打新]People's Launchpad-BITSMILEY攻略-VOL03
 
 > 人民的发射台第三期来了
 
-\#ally #particlenetwork #BITSMILEY
+\#ally #particlenetwork #BITSMILEY #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 基础信息 <a href="#ji-chu-xin-xi" id="ji-chu-xin-xi"></a>
 

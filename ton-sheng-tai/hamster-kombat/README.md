@@ -6,9 +6,7 @@ description: >-
 
 # 🐹 Hamster Kombat
 
-\#游戏 #TON钱包 #金币
-
-\----------------------------------------------------------------右上角可搜索项目关键字/英文名↗↗↗
+\#游戏 #TON钱包 #金币 #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

@@ -4,9 +4,9 @@ description: >-
   发表时间：2024-05-20
 ---
 
-# 🥎 People's Launchpad主网倍数签到
+# 🥎 \[≈0撸]People's Launchpad主网倍数签到
 
-\#粒子钱包 #签到 #打新
+\#粒子钱包 #签到 #打新 #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 

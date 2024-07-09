@@ -4,9 +4,9 @@ description: >-
   发表时间：2024-04-18
 ---
 
-# 🚵‍♀️ BEVM-BinanceWeb3钱包空投任务
+# 🚵‍♀️ \[打新]BEVM-BinanceWeb3钱包空投任务
 
-\#BEVM #跨链 #web3 #Binance
+\#BEVM #跨链 #web3 #Binance #右上角可搜索项目关键字/英文名↗↗↗
 
 ## 活动时间与成本 <a href="#huo-dong-shi-jian-yu-cheng-ben" id="huo-dong-shi-jian-yu-cheng-ben"></a>
 
