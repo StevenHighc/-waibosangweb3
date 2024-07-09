@@ -1,5 +1,5 @@
 ---
-description: 提示：按shift+鼠标滚轮可右滑
+description: 提示：按shift+鼠标滚轮可右滑。右上角可搜索项目关键字/英文名↗↗↗
 ---
 
 # 🥱 空投项目表@waibosangweb3制作
