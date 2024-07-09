@@ -66,11 +66,15 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-5、点击页面左侧Lucky，进入页面，点击Share Your Mint Forest Journey on X，跳转到推特上发一条推文，并且复制推文链接，粘贴到栏框中，点击Verify，获取一次转盘机会，每天可转六次，消耗ME，如果运气一般，建议不要把EM浪费在这上面。
+### 02、Lucky抽奖
+
+点击页面左侧Lucky，进入页面，点击Share Your Mint Forest Journey on X，跳转到推特上发一条推文，并且复制推文链接，粘贴到栏框中，点击Verify，获取一次转盘机会，每天可转六次，消耗ME，如果运气一般，建议不要把EM浪费在这上面。
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
 
 6、点击页面上Tasks，五个任务，其中四个是简单的社交任务，第三个是使用测试代币，将sepolia上的ETH存入mint Testnet。
 
