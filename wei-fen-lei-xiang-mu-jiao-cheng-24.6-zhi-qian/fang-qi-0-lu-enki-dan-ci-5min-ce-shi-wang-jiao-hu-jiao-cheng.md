@@ -14,7 +14,7 @@ ENKI是一个Metis生态系统内的流动性质押衍生品协议，是Metis链
 
 链接（如失效请联系）：[https://mvnagk74pq.feishu.cn/docx/F9gMdyc7loXf2FxxZfic4Sqfn5c?302from=wiki](https://mvnagk74pq.feishu.cn/docx/F9gMdyc7loXf2FxxZfic4Sqfn5c?302from=wiki)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 项目列表：[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu)
 
