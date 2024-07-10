@@ -83,6 +83,5 @@
 * [🍵 \[0撸\]Tea-10min-币安领投拿低保985积分交互教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-tea10min-bi-an-ling-tou-na-di-bao-985-ji-fen-jiao-hu-jiao-cheng.md)
 * [😽 \[0撸\]Analog-测试网千万融资积分交互明牌保姆式教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-analog-ce-shi-wang-qian-wan-rong-zi-ji-fen-jiao-hu-ming-pai-bao-mu-shi-jiao-cheng.md)
 * [😹 \[0撸\]Initia-15min日活-测试网BN孵化Cosmos生态模块化L1交互保姆级教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-initia15min-ri-huo-ce-shi-wang-bn-fu-hua-cosmos-sheng-tai-mo-kuai-hua-l1-jiao-hu-bao-mu-ji-jiao.md)
-* [😹 \[0撸\]Initia-15min日活-测试网BN孵化Cosmos生态模块化L1交互保姆级教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-initia15min-ri-huo-ce-shi-wang-bn-fu-hua-cosmos-sheng-tai-mo-kuai-hua-l1-jiao-hu-bao-mu-ji-ji-1.md)
 * [🤑 \[0撸\]Morph-测试网L2融资2000万第一季交互积分教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-morph-ce-shi-wang-l2-rong-zi-2000-wan-di-yi-ji-jiao-hu-ji-fen-jiao-cheng.md)
 * [🤑 \[0撸\]Tanssi-测试网900万美金融资波卡生态项目交互教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-tanssi-ce-shi-wang-900-wan-mei-jin-rong-zi-bo-ka-sheng-tai-xiang-mu-jiao-hu-jiao-cheng.md)
