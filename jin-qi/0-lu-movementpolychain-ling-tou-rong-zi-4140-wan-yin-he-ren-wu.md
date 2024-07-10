@@ -50,7 +50,7 @@ description: >-
 
     <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     1. 银河绑定钱包： [https://app.galxe.com/accountSetting/wallet](https://t.co/giBzAH8l25)
        1. EVM：登录小狐狸，OKx等钱包后就绑定，不需要绑定  操作。

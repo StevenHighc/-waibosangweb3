@@ -16,6 +16,8 @@ description: >-
 
 ## 图文教程
 
+2024年7月10日更新：阶段一（Stage1）养宠活动结束。![](<../.gitbook/assets/image (1).png>)
+
 链接（如失效请联系）：[https://mvnagk74pq.feishu.cn/docx/DTaNdEcDToAr5Ox1e9XcbUVHncn?302from=wiki](https://mvnagk74pq.feishu.cn/docx/DTaNdEcDToAr5Ox1e9XcbUVHncn?302from=wiki)
 
 <figure><img src="../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
