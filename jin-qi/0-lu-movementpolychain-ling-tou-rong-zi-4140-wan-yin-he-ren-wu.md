@@ -45,19 +45,22 @@ description: >-
    1.  加入DC，并verify后即可验证。验证没响应的话需要多Claim几次。
 
        <figure><img src="../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure>
-3.  绑定钱包\
+3. 绑定钱包
+   1. 为什么需要绑定\
+      ![](<../.gitbook/assets/image (508).png>)
+   2. 银河绑定钱包： [https://app.galxe.com/accountSetting/wallet](https://t.co/giBzAH8l25)
+      1. EVM：登录小狐狸，OKx等钱包后就绑定，不需要绑定  操作。
+         1. Aptos 钱包插件： [https://chromewebstore.google.com/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci](https://t.co/tezXXnew1f)
+         2. Sui 钱包（其他Sui钱包也可以，如果不弹出你选定的钱包，就把其他弹出的钱包都先禁用，在谷歌管理拓展程序里操作）：
+            1. Sui钱包插件：[https://chrome.google.com/webstore/detail/opcgpfmipidbgpenhmajoajpbobppdil](https://t.co/R43BIXue03)
+            2. Razor：[https://chromewebstore.google.com/detail/razor-wallet/fdcnegogpncmfejlfnffnofpngdiejii](https://t.co/TNvyyT5dmp)
+            3. ps：用 OKX wallet的话，可以直接绑 Aptos，Sui 的钱包需要单独绑定&#x20;
+         3. 各个钱包添加网络官方教程（Razor 不需要添加）： [https://docs.movementlabs.xyz/ecosystem/learn/wallets](https://t.co/lbSEnO2QEf)
+   3.  绑定APT和Sui网络的钱包
 
+       <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
-
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-    1. 银河绑定钱包： [https://app.galxe.com/accountSetting/wallet](https://t.co/giBzAH8l25)
-       1. EVM：登录小狐狸，OKx等钱包后就绑定，不需要绑定  操作。
-       2. Aptos 钱包插件： [https://chromewebstore.google.com/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci](https://t.co/tezXXnew1f)
-       3. Sui 钱包（其他Sui钱包也可以，如果不弹出你选定的钱包，就把其他弹出的钱包都先禁用，在谷歌管理拓展程序里操作）：
-          1. Sui钱包插件：[https://chrome.google.com/webstore/detail/opcgpfmipidbgpenhmajoajpbobppdil…](https://t.co/R43BIXue03) Razor：[https://chromewebstore.google.com/detail/razor-wallet/fdcnegogpncmfejlfnffnofpngdiejii](https://t.co/TNvyyT5dmp)ps：用 OKX wallet的话，可以直接绑 Aptos，Sui 的钱包需要单独绑定&#x20;
-       4. 各个钱包添加网络（Razor 不需要添加）： [https://docs.movementlabs.xyz/ecosystem/learn/wallets](https://t.co/lbSEnO2QEf)
+       <figure><img src="../.gitbook/assets/image (509).png" alt=""><figcaption><p>绑定完成图示</p></figcaption></figure>
 
 ## 免责声明
 
