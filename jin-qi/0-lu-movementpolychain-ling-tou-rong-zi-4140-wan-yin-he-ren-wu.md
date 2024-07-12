@@ -40,7 +40,10 @@ description: >-
 1. 银河任务1：[https://app.galxe.com/quest/Movement/GCBiQtgo1C?referral\_code=GRFr2JBkY6m7lGKj5tjKZmTrMrcYwyxhq2qFoY7gfFwBliW](https://app.galxe.com/quest/Movement/GCBiQtgo1C?referral\_code=GRFr2JBkY6m7lGKj5tjKZmTrMrcYwyxhq2qFoY7gfFwBliW)
    1. 银河答案（没有截止时间）：
       1. 答题1： MOVE、 C、 decentralized shared sequencer、A 、 B 答题2：A、Vanderbilt、B、San Francisco 答题3：Fractal、Celestia、razor、D、A 答题4：gmove、Pathfinders、Creators、Scholars、Explorers、Masons、C、Moveus
-   2. MOVEMENT-最新Galxe银河任务演示(含答案) ：[https://www.bilibili.com/video/BV1x13CeHEnv/?share\_source=copy\_web\&vd\_source=8fdea182695f32901910941716f9d451](https://www.bilibili.com/video/BV1x13CeHEnv/?share\_source=copy\_web\&vd\_source=8fdea182695f32901910941716f9d451)
+   2. MOVEMENT-最新Galxe银河任务演示(含答案) -[BILIBILI](https://www.bilibili.com/video/BV1x13CeHEnv)：
+
+{% embed url="https://youtu.be/J9EjmUgORDA" %}
+
 2. 银河任务2：[https://app.galxe.com/quest/Movement/GCekQtgjfd](https://app.galxe.com/quest/Movement/GCekQtgjfd)
    1.  加入DC，并verify后即可验证。验证没响应的话需要多Claim几次。
 
