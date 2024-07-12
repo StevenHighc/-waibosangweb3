@@ -10,6 +10,7 @@
 * [\[0撸\]Movement-Polychain领投融资4140万-银河任务](jin-qi/0-lu-movementpolychain-ling-tou-rong-zi-4140-wan-yin-he-ren-wu.md)
 * [\[链游\]Sonic-融资1600万首个SolanaL2游戏扩容方案测试网教程](jin-qi/page.md)
 * [\[质押\]Fuel-主网质押获取积分活动](jin-qi/zhi-ya-fuel-zhu-wang-zhi-ya-huo-qu-ji-fen-huo-dong.md)
+* [Tabi测试网TG积分挖矿教程](jin-qi/tabi-ce-shi-wang-tg-ji-fen-wa-kuang-jiao-cheng.md)
 
 ## TON生态
 
