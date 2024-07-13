@@ -4,11 +4,23 @@ description: 右上角可搜索项目关键字/英文名↗↗↗
 
 # Hamster Kombat今日卡片和摩斯密码
 
+活动链接：[https://t.me/hamster\_kombAt\_bot/start?startapp=kentId6942470886](https://t.me/hamster\_kombAt\_bot/start?startapp=kentId6942470886)
+
+教程：👇
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+
+
 摩斯密码对照表：
 
 ![](<../../.gitbook/assets/image (456).png>)
 
+2024年7月13日
 
+![](<../../.gitbook/assets/image (510).png>)今日摩斯密码 B -... L .-.. O --- C -.-. K -.-
 
 
 
