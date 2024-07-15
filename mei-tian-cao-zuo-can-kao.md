@@ -11,17 +11,64 @@ description: 右上角输入框可搜索项目关键字/英文名↗↗↗
 ## Week28
 
 {% hint style="info" %}
+
+
+2024年7月14日周日
+
+1. 休息
+2. 各类#Daily Combo Answers更新，https://x.com/WaibosangWeb3/status/1812390659862761491
+
+\
+2024年7月13日周六
+
+1. 休息
+2. \#Tabi-TG 更新
+   1. 新开了TG2群，现在10000人左右（上限20w，尽快加入），加入可完成社交任务
+   2. 钱包可输入了，输入前期参加tabi任务的钱包地址
+3. \#Caldera 电报新任务，填表拿 NFT（截止到 7/15 20:00）
+   1. 传送：[https://tally.so/r/wA88ly](https://t.co/grAqhZDm1F)
+   2. 填钱包地址填银河任务的EVM地址
+4. 各类#Daily Combo Answers更新，https://x.com/WaibosangWeb3/status/1812080869341040878
+5. \#[StarryNift](https://starrynift.art/mpc-web3) 教程更新，邀请码：5XzKI1U3ik。
+   1. 要求：至少完成2个任务才有空投资格，BNB+OPBNB CHAIN余额需要≥0.01BNB
+   2. 2分钟视频教程(电脑端)：[https://x.com/WaibosangWeb3/status/1811801834761388192](https://x.com/WaibosangWeb3/status/1811801834761388192)
+
+\
+2024年7月12日
+
+1. 日常任务
+2. Caldera:在 #Galxe #Caldera Crusade的8个任务中完成并获得至少6个任务的人现在都应该能够铸造Caldera Soulbound NFT！链接:https://app.galxe.com/quest/Caldera/GCBMvtkQ83 ；截止:7月16日；提示:主网 mint，NFT跟账户绑定不可买卖。要弄得可以关注下，领投机构Dragonfly评级C,Sequoia Capital评级A。截图参考：https://x.com/WaibosangWeb3/status/1811575309889864052
+3. 更新Tabi-Ton视频教程：https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/tabi-ce-shi-wang-tg-ji-fen-wa-kuang-jiao-cheng
+4. mon protoco不定时更新：https://app.monprotocol.ai/questing，邀请码：webosang
+
+\
+2024年7月11日外出2024年7月9日10日
+
+1. 日常任务。[carv](https://protocol.carv.io/airdrop?invite\_code=8V711F), \[签][dmail](https://mail.dmail.ai/login?icode=3813775), \[签][beoble](https://beoble.app/), \[签][secwarex](https://secwarex.io/?channelCode=C8VQ0PDV), \[签][ally](https://launchpad.ally.build/zh-CN/details?id=1),\[2][berachain](https://bartio.faucet.berachain.com/),\[2][analog](https://testnet.analog.one/#/?signup\&referral=OHUO7A),\[签][morph](https://www.morphl2.io/points/genesis\_jungle/),[particle](https://pioneer.particle.network/?inviteCode=JH0MT0)粒子,\[签][Avalon](http://avalon.online/quests/connect), \[TG][blum](https://t.me/BlumCryptoBot/app?startapp=ref\_WBRl5NeCrd), \[签][mint](https://www.mintchain.io/mint-forest?inviteCode=24122EB3), [tari](https://airdrop.tari.com/?referralCode=DW4zrWZgSY),\[签][ZKP](https://portal.zkpass.org/attestation/market),(测)[ethermail](https://ethermail.io/?afid=66505d80d812fd4f0e0d4b0c),\[TG][Gem](https://t.me/gemzcoin\_Bot/tap?startapp=7Zptos-UHfOlPO1KRdXtjJya),\[APP]warpcast=phaver,\[签][monprotocol](https://app.monprotocol.ai/questing)，\[TG][Hamster](https://t.me/hamster\_kombAt\_bot/start?startapp=kentId6942470886),\[BN]REVOX,\[BN][StarryNift](https://starrynift.art/mpc-web3)
+   1. \[阶段结束][initia](https://app.testnet.initia.xyz/xp),\[阶段结束]babylon, (阶段结束)Cfire, \[阶段结束][alienx](https://hal.alienxchain.io/quest?ref=1HL815),xterio,\[周][xion](https://xion.bonusblock.io/?r=mn83Vdg4),\[周][elys](https://elys.bonusblock.io/?r=NhjZ4JzQ),\[放弃]tanssi,\[周]fuel,\[周][supra](https://supra.com/blastoff?ref=9fcf6-4699946),\[阶段结束][tabi](https://tabi.lol/?code=ckyJe),\[放弃]elfin,\[阶段结束][skyark](https://skygate.skyarkchronicles.com/farming?invite=0x1d11C54788bfF9815965840E4b3eEB5aEc0a0f27),\[结束][ultiverse](https://pilot.ultiverse.io/),\[阶段结束][dflow](https://dflow.net/en/reward),\[放弃]sofa,\[放弃]tanssi,\[放弃]Bondex,\[阶段结束]Caldera
+2. fuel质押任务，不参与。
+   1. https://pbs.twimg.com/media/GR-I8h5bwAEZYDD?format=jpg\&name=large
+3. monProtocol更新任务。（玩法：虚假空投消息，专门给其他账号做社交任务涨粉，不需要tx验证，仅需要引流。rootdata没有投资信息，只有2个创始人信息，但是100w粉丝，黄标。）
+4. 粒子钱包更新任务，新增Bera\&Sei合作。建议NFT 10 笔，Bera & SEI 70 笔。视频教程参考
+5. 合成Caldera NFT(mint 过 6 个可以合成，买的不算，截止到 7/16，主网 mint，NFT**跟账户绑定不可买卖**):https://app.galxe.com/quest/Caldera/GCBMvtkQ83，截图：
+6. initia第一阶段结束
+7. 项目调研：Plume Network,pandiana
+8. tari任务更新：https://x.com/WaibosangWeb3/status/1810938133955146206
+
+\
+\
+\
 2024年7月8日
 
 1. 日常任务
-2. Caldera进度。检查自己的 8 个 OAT 是不是都有，银河右上角头像 - NFT & OAT（用户名右侧小字），选择 OATS 。最后合成的 NFT 是跟账户绑定的，不能买卖。想买 oat 的看这里（无投资建议） [https://element.market/collections/galaxy-oat2?search\[query\]=olive](https://t.co/4ovLPfFlIb)
+2. Caldera进度。检查自己的 8 个 OAT 是不是都有，银河右上角头像 - NFT & OAT（用户名右侧小字），选择 OATS 。**最后合成的 NFT 是跟账户绑定的，不能买卖**。~~想买 oat 的看这里（无投资建议）~~ [~~https://element.market/collections/galaxy-oat2?search\[query\]=olive~~](https://t.co/4ovLPfFlIb)
 3. MapleStory冒险岛任务更新：
-   1. 教程：[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen)
+   1. 教程：https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen
    2. 银河新任务1：[https://app.galxe.com/quest/MapleStoryUniverse/GCTEttkE4k](https://t.co/meJ2e11Zwv)，包括每日登录、连续登录、解锁更衣室三级，更衣室三级需要 600 分
    3. 银河新任务2： [https://app.galxe.com/quest/MapleStoryUniverse/GCFCntgJGa](https://t.co/DJNhCOauGG)，答案：DBADB BCABA
-4. movement银河任务2可以验证了，绑定地址教程。[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/0-lu-movementpolychain-ling-tou-rong-zi-4140-wan-yin-he-ren-wu#id-02-yin-he-ren-wu](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/0-lu-movementpolychain-ling-tou-rong-zi-4140-wan-yin-he-ren-wu#id-02-yin-he-ren-wu)
-5. Sonic链游图文教程。\
-   [https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-sonic-rong-zi-1600-wan-shou-ge-solanal2-you-xi-kuo-rong-fang-an-ce-shi-wang-jiao-cheng](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-sonic-rong-zi-1600-wan-shou-ge-solanal2-you-xi-kuo-rong-fang-an-ce-shi-wang-jiao-cheng)
+4. movement银河任务2可以验证了，绑定地址教程。https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/0-lu-movementpolychain-ling-tou-rong-zi-4140-wan-yin-he-ren-wu#id-02-yin-he-ren-wu
+5. Sonic链游教程图文
+   1. https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu/jin-qi/lian-you-sonic-rong-zi-1600-wan-shou-ge-solanal2-you-xi-kuo-rong-fang-an-ce-shi-wang-jiao-cheng
 
 
 {% endhint %}
