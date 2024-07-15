@@ -91,7 +91,7 @@ Berachain 是一条基于流动性证明共识构建的高性能 EVM 兼容公�
 
 （获得BGT需要时间等待，没有则先跳过该步骤）[https://bartio.station.berachain.com/gauge](https://bartio.station.berachain.com/gauge)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 08 投票治理
 
