@@ -18,7 +18,7 @@
 * [🐹 Hamster Kombat](ton-sheng-tai/hamster-kombat/README.md)
   * [Hamster Kombat今日卡片和摩斯密码](ton-sheng-tai/hamster-kombat/hamster-kombat-jin-ri-ka-pian-he-mo-si-mi-ma.md)
 * [🅱️ Blum](ton-sheng-tai/blum.md)
-* [😁 Tabi测试网TG积分挖矿教程](ton-sheng-tai/tabi-ce-shi-wang-tg-ji-fen-wa-kuang-jiao-cheng.md)
+* [😁 TabiZoo-TG积分挖矿教程](ton-sheng-tai/tabizootg-ji-fen-wa-kuang-jiao-cheng.md)
 
 ## 未分类项目教程（24.6之前）
 

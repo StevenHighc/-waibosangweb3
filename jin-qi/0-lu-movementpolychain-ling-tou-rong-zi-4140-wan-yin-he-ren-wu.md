@@ -61,7 +61,7 @@ description: >-
          3. 各个钱包添加网络官方教程（Razor 不需要添加）： [https://docs.movementlabs.xyz/ecosystem/learn/wallets](https://t.co/lbSEnO2QEf)
    3.  绑定APT和Sui网络的钱包
 
-       <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="../.gitbook/assets/image (509).png" alt=""><figcaption><p>绑定完成图示</p></figcaption></figure>
 
