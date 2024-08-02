@@ -40,6 +40,8 @@ Reach 1,000 Daily Quests Completed： KERNING CITY ANGEL&#x20;
 
 Reach 3,000 Daily Quests Completed：\*MAGATIA\* SPORE
 
+Reach 5,000 Daily Quests Completed：🈚️
+
 Reach 4,000 total levels for all characters：AMHERST BALROG
 
 Reach 15,000 total levels for all characters：ORBIS// DEVIL//
