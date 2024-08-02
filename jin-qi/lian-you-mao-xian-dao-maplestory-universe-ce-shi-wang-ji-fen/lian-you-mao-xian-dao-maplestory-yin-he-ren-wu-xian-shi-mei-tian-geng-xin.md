@@ -1,4 +1,8 @@
-# \[链游]冒险岛MapleStory银河任务\[限时!!!!!!]
+---
+description: update everyday~ follow https://x.com/WaibosangWeb3
+---
+
+# \[链游]冒险岛MapleStory银河任务\[限时!每天更新]
 
 <mark style="color:purple;">**提醒：答案需要全复制包括符号，前后不要留空格**</mark>**。**
 
