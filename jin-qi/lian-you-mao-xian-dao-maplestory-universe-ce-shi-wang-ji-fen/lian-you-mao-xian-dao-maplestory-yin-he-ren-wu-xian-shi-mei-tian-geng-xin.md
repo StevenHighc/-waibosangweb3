@@ -1,5 +1,5 @@
 ---
-description: update everyday~ follow https://x.com/WaibosangWeb3
+description: update daily ~ follow me and get more info.   https://x.com/WaibosangWeb3
 ---
 
 # \[链游]冒险岛MapleStory银河任务\[限时!每天更新]
