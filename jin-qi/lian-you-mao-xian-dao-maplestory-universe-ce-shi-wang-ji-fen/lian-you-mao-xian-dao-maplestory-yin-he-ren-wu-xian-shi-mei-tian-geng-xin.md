@@ -6,9 +6,15 @@ description: update daily ~ follow me and get more info.   https://x.com/Waibosa
 
 <mark style="color:purple;">**提醒：答案需要全复制包括符号，前后不要留空格**</mark>**。**
 
-## 标题：【截至8.19】\[Season 4] MSU QUIZ TIME
+## 标题：\[Season 4] MSU QUIZ TIME
 
-### 选择题答案：ABABD AADCB
+### 任务：10个单选题【截至8.19】
+
+选择题答案：ABABD AADCB
+
+链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCtFptvHj7](https://app.galxe.com/quest/MapleStoryUniverse/GCtFptvHj7)
+
+
 
 
 
