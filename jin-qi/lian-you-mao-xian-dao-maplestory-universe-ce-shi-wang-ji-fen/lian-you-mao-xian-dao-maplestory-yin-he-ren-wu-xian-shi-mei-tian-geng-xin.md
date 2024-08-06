@@ -10,7 +10,7 @@ description: update daily ~ follow me and get more info.   https://x.com/Waibosa
 
 ### 任务：10个单选题【截至8.19】
 
-选择题答案：ABABD AADCB
+选择题答案：ABABD AADCB。Complete 10 quizzes点刷新图标即可完成，记得Claim分数
 
 链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCtFptvHj7](https://app.galxe.com/quest/MapleStoryUniverse/GCtFptvHj7)
 
