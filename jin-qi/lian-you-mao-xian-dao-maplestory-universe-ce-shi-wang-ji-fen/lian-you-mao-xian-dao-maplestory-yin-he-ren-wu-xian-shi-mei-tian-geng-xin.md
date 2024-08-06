@@ -6,6 +6,12 @@ description: update daily ~ follow me and get more info.   https://x.com/Waibosa
 
 <mark style="color:purple;">**提醒：答案需要全复制包括符号，前后不要留空格**</mark>**。**
 
+## 标题：Daily Check-IN每天签到
+
+链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCQDrtksgJ](https://app.galxe.com/quest/MapleStoryUniverse/GCQDrtksgJ)
+
+
+
 ## 标题：\[Season 4] MSU QUIZ TIME
 
 ### 任务：10个单选题【截至8.19】
