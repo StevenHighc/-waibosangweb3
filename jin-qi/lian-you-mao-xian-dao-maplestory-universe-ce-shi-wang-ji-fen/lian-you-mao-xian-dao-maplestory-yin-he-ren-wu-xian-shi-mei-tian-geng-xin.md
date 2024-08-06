@@ -6,6 +6,12 @@ description: update daily ~ follow me and get more info.   https://x.com/Waibosa
 
 <mark style="color:purple;">**提醒：答案需要全复制包括符号，前后不要留空格**</mark>**。**
 
+## 标题：【截至8.19】\[Season 4] MSU QUIZ TIME
+
+### 选择题答案：ABABD AADCB
+
+
+
 ## 标题：In-Game Metrics Achievement Quests
 
 ### 任务：【截至8.3】Follow @MaplestoryU on X(Twitter)
