@@ -12,6 +12,22 @@ description: update daily ~ follow me and get more info.   https://x.com/Waibosa
 
 
 
+## 标题：JOIN THE MSU DISCORD COMMUNITY
+
+### 任务：AMA-2个问答【截至8.12】
+
+答案
+
+Quiz (Round 1)：see you next time
+
+Quiz (Round 2)：august lets go
+
+链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCAgetvjrZ](https://app.galxe.com/quest/MapleStoryUniverse/GCAgetvjrZ)
+
+
+
+
+
 ## 标题：\[Season 4] MSU QUIZ TIME
 
 ### 任务：10个单选题【截至8.19】
