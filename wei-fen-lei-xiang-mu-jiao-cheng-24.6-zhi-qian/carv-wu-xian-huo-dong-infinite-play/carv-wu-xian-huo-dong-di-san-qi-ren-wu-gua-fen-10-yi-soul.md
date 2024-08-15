@@ -12,7 +12,7 @@ description: 活动2024年6月22日开始。右上角可搜索项目关键字/�
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="300"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -26,7 +26,7 @@ description: 活动2024年6月22日开始。右上角可搜索项目关键字/�
 2. 这一轮活动，持续30天，一~~共~~有9个游戏参与，总奖池是10亿个SOUL
 3.  投票券可以分开给不同的游戏投票，给不同的游戏投票，可以获得游戏的额外的奖励或者抽奖机会。
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4. 将根据每个游戏获得的投票数量占比，分配这10亿个SOUL，到各个游戏的奖池中。

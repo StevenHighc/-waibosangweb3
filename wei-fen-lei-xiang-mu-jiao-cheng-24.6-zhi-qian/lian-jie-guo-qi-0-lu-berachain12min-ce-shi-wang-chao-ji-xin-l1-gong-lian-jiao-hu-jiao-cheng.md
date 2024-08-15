@@ -18,7 +18,7 @@ description: >-
 
 链接（如失效请联系）：[https://mvnagk74pq.feishu.cn/docx/TMzud0ux5oEFjexRpMJcgGMXnYb?302from=wiki](https://mvnagk74pq.feishu.cn/docx/TMzud0ux5oEFjexRpMJcgGMXnYb?302from=wiki)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 项目表格：[https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu](https://waibosangweb3.gitbook.io/airdrop-kong-tou-xiang-mu)
 

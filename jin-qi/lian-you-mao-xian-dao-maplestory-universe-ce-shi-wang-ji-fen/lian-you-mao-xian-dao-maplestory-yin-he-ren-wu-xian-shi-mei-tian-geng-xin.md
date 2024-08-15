@@ -82,7 +82,7 @@ Reach 15,000 total levels for all characters：ORBIS// DEVIL//
 
 Reach 30,000 total levels for all characters：\*\*EL NATH\*\* BELLAMOA
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 
 
