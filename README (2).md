@@ -22,7 +22,7 @@ description: 右上角可搜索项目关键字/英文名↗↗↗
 
 推特：[https://x.com/WaibosangWeb3](https://x.com/WaibosangWeb3)
 
-TG：[https://t.me/+8yErYt56B9VjM2U1](https://t.me/+8yErYt56B9VjM2U1)
+TG：[https://t.me/+0vgaRfYnGdc5YTc1](https://t.me/+0vgaRfYnGdc5YTc1)
 
 VX： mafoo1314
 
