@@ -18,7 +18,7 @@ description: update daily ~ follow me and get more info.   https://x.com/Waibosa
 
 答案
 
-Quiz (Round 1)：BDACB BBCAA
+Quiz ：BDACB BBCAA
 
 链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCfYHtvMD7](https://app.galxe.com/quest/MapleStoryUniverse/GCfYHtvMD7)
 
