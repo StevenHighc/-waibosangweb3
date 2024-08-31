@@ -24,19 +24,20 @@ Quiz ：BDACB BBCAA
 
 
 
-## 标题：JOIN THE MSU DISCORD COMMUNITY
-
-### 任务：AMA-2个问答【截至8.12】
-
-答案
-
-Quiz (Round 1)：see you next time
-
-Quiz (Round 2)：august lets go
-
-链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCAgetvjrZ](https://app.galxe.com/quest/MapleStoryUniverse/GCAgetvjrZ)
 
 
+
+
+## 标题：\[Season 5] LET'S GO MSU
+
+1. PARTICIPATE IN THE MSU X COMMUNITY，推特任务即可验证。\
+   链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCdtptxRPX](https://app.galxe.com/quest/MapleStoryUniverse/GCdtptxRPX)
+2. PARTICIPATE IN THE MSU MEDIUM COMMUNITY，访问网页即可验证。\
+   链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCzoptxrrM](https://app.galxe.com/quest/MapleStoryUniverse/GCzoptxrrM)
+3. 先锋计划，链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCdRPtv8L8](https://app.galxe.com/quest/MapleStoryUniverse/GCdRPtv8L8)
+   1. MVP : Most Valuable Pioneer
+   2. Maple Story N Pioneer Test Survey
+   3. Submit Your Adventure
 
 
 
@@ -49,6 +50,18 @@ Quiz (Round 2)：august lets go
 链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCtFptvHj7](https://app.galxe.com/quest/MapleStoryUniverse/GCtFptvHj7)
 
 
+
+## 标题：JOIN THE MSU DISCORD COMMUNITY
+
+### 任务：AMA-2个问答【截至8.12】
+
+答案
+
+Quiz (Round 1)：see you next time
+
+Quiz (Round 2)：august lets go
+
+链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCAgetvjrZ](https://app.galxe.com/quest/MapleStoryUniverse/GCAgetvjrZ)
 
 
 
