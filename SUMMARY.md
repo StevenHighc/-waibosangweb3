@@ -6,7 +6,7 @@
 
 ## 近期
 
-* [🧑‍🌾 头部投资机构评级](jin-qi/tou-bu-tou-zi-ji-gou-ping-ji.md)
+* [🧑‍🌾 \[投研\]头部投资机构评级](jin-qi/tou-yan-tou-bu-tou-zi-ji-gou-ping-ji.md)
 * [🐢 \[链游\]冒险岛MapleStory Universe测试网积分](jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen/README.md)
   * [\[链游\]冒险岛MapleStory银河任务\[限时\]](jin-qi/lian-you-mao-xian-dao-maplestory-universe-ce-shi-wang-ji-fen/lian-you-mao-xian-dao-maplestory-yin-he-ren-wu-xian-shi.md)
 * [Ⓜ️ \[0撸\]Movement-Polychain领投融资4140万-银河任务](jin-qi/0-lu-movementpolychain-ling-tou-rong-zi-4140-wan-yin-he-ren-wu.md)
