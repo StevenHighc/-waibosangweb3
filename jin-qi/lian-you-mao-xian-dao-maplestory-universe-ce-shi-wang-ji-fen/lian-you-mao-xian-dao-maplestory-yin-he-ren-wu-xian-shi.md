@@ -2,13 +2,25 @@
 description: update daily ~ follow me and get more info.   https://x.com/WaibosangWeb3
 ---
 
-# \[链游]冒险岛MapleStory银河任务\[限时!每天更新]
+# \[链游]冒险岛MapleStory银河任务\[限时]
 
 <mark style="color:purple;">**提醒：答案需要全复制包括符号，前后不要留空格**</mark>**。**
 
 ## 标题：Daily Check-IN每天签到
 
 链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCQDrtksgJ](https://app.galxe.com/quest/MapleStoryUniverse/GCQDrtksgJ)
+
+
+
+## 标题：\[Season 5] MSU QUIZ TIME
+
+### 任务：10个单选题【截至9.2】
+
+答案
+
+Quiz (Round 1)：BDACB BBCAA
+
+链接：[https://app.galxe.com/quest/MapleStoryUniverse/GCfYHtvMD7](https://app.galxe.com/quest/MapleStoryUniverse/GCfYHtvMD7)
 
 
 
