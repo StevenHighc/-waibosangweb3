@@ -60,6 +60,7 @@
   * [🚡 Counterfire第一期活动2之游戏](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-counterfire-di-yi-qi-huo-dong-1-zhi-tan-suo-he-kai-xiang-zi/counterfire-di-yi-qi-huo-dong-2-zhi-you-xi.md)
 * [🌲 \[0撸\]Mint Blockchain 早期参与活动](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-mint-blockchain-zao-qi-can-yu-huo-dong/README.md)
   * [🌲 \[3u\]Mint Blockchain早期活动宝箱](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-mint-blockchain-zao-qi-can-yu-huo-dong/3umint-blockchain-zao-qi-huo-dong-bao-xiang.md)
+  * [🌲 \[<0.00000001u\]Mint Blockchain签到更新链上交互](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-mint-blockchain-zao-qi-can-yu-huo-dong/0.00000001umint-blockchain-qian-dao-geng-xin-lian-shang-jiao-hu.md)
 * [📸 \[0撸\]Tabi-第二季The Pirate Island测试网](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-tabi-di-er-ji-the-pirate-island-ce-shi-wang/README.md)
   * [📷 \[1u+\]Tabi NewWorld积分Mint$GG](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-tabi-di-er-ji-the-pirate-island-ce-shi-wang/1u+tabi-newworld-ji-fen-mintgg.md)
 * [🎞️ \[5u\]Farcaster-Warpcast积分](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/5ufarcasterwarpcast-ji-fen.md)
