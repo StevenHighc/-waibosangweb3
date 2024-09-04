@@ -82,7 +82,7 @@
 * [⚔️ \[<1u\]CounterFire-5min-OPBNB链游1个月明牌空投](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/1ucounterfire5minopbnb-lian-you-1-ge-yue-ming-pai-kong-tou.md)
 * [🗼 \[0撸\]Taiko-30min-测试网融资3700万交互和NFT部署教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-taiko30min-ce-shi-wang-rong-zi-3700-wan-jiao-hu-he-nft-bu-shu-jiao-cheng/README.md)
   * [🥎 \[3u\]\[NFT\]Taiko-GenesisNFT系列888个Taikoons白名单抽奖参与教程\[截至:4.29\]](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-taiko30min-ce-shi-wang-rong-zi-3700-wan-jiao-hu-he-nft-bu-shu-jiao-cheng/3unfttaikogenesisnft-xi-lie-888-ge-taikoons-bai-ming-dan-chou-jiang-can-yu-jiao-cheng-jie-zhi-4.29.md)
-* [🍃 Copy of \[0撸\]Taiko-30min-测试网融资3700万交互和NFT部署教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/copy-of-0-lu-taiko30min-ce-shi-wang-rong-zi-3700-wan-jiao-hu-he-nft-bu-shu-jiao-cheng.md)
+* [🍃 \[0撸\]Taiko-30min-测试网融资3700万交互和NFT部署教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-taiko30min-ce-shi-wang-rong-zi-3700-wan-jiao-hu-he-nft-bu-shu-jiao-cheng-1.md)
 * [🍵 \[0撸\]Tea-10min-币安领投拿低保985积分交互教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-tea10min-bi-an-ling-tou-na-di-bao-985-ji-fen-jiao-hu-jiao-cheng.md)
 * [😽 \[0撸\]Analog-测试网千万融资积分交互明牌保姆式教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-analog-ce-shi-wang-qian-wan-rong-zi-ji-fen-jiao-hu-ming-pai-bao-mu-shi-jiao-cheng.md)
 * [😹 \[0撸\]Initia-15min日活-测试网BN孵化Cosmos生态模块化L1交互保姆级教程](wei-fen-lei-xiang-mu-jiao-cheng-24.6-zhi-qian/0-lu-initia15min-ri-huo-ce-shi-wang-bn-fu-hua-cosmos-sheng-tai-mo-kuai-hua-l1-jiao-hu-bao-mu-ji-jiao.md)
